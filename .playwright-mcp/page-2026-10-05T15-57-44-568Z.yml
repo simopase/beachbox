@@ -1,0 +1,53 @@
+- generic [active] [ref=f16e1]:
+  - generic [ref=f16e2]:
+    - generic [ref=f16e3]:
+      - generic [ref=f16e4]:
+        - img "BeachBox" [ref=f16e5]
+        - generic [ref=f16e6]: Ombrellone 24
+      - heading "Cosa ti portiamo?" [level=1] [ref=f16e7]
+      - paragraph [ref=f16e8]: Il tuo momento di pausa, servito al mare. Menu dimostrativo, nessun pagamento.
+      - group "Filtra il menu" [ref=f16e9]:
+        - button "Tutti" [pressed] [ref=f16e10] [cursor=pointer]
+        - button "Drink" [ref=f16e11] [cursor=pointer]
+        - button "Food" [ref=f16e12] [cursor=pointer]
+      - generic [ref=f16e13]:
+        - article [ref=f16e14]:
+          - heading "Spritz" [level=2] [ref=f16e20]
+          - paragraph [ref=f16e21]: Aperitivo fresco con arancia e ghiaccio.
+          - generic [ref=f16e22]:
+            - generic [ref=f16e23]: 6,00 €
+            - button "Aggiungi Spritz" [ref=f16e24] [cursor=pointer]: Aggiungi +
+        - article [ref=f16e25]:
+          - heading "Toast" [level=2] [ref=f16e32]
+          - paragraph [ref=f16e33]: Pane tostato, prosciutto e formaggio.
+          - generic [ref=f16e34]:
+            - generic [ref=f16e35]: 7,50 €
+            - button "Aggiungi Toast" [ref=f16e36] [cursor=pointer]: Aggiungi +
+        - article [ref=f16e37]:
+          - heading "Acqua" [level=2] [ref=f16e42]
+          - paragraph [ref=f16e43]: Acqua naturale, bottiglia da 50 cl.
+          - generic [ref=f16e44]:
+            - generic [ref=f16e45]: 2,00 €
+            - button "Aggiungi Acqua" [ref=f16e46] [cursor=pointer]: Aggiungi +
+        - article [ref=f16e47]:
+          - heading "Cola" [level=2] [ref=f16e53]
+          - paragraph [ref=f16e54]: Bibita fresca in lattina da 33 cl.
+          - generic [ref=f16e55]:
+            - generic [ref=f16e56]: 3,00 €
+            - button "Aggiungi Cola" [ref=f16e57] [cursor=pointer]: Aggiungi +
+      - generic [ref=f16e58]:
+        - heading "Il tuo ordine" [level=2] [ref=f16e59]
+        - paragraph [ref=f16e60]: Qui c’è ancora spazio.Aggiungi qualcosa dal menu.
+        - generic [ref=f16e61]:
+          - generic [ref=f16e62]: Totale
+          - strong [ref=f16e63]: 0,00 €
+        - button "Conferma ordine demo →" [disabled] [ref=f16e64]
+        - paragraph [ref=f16e65]:
+          - text: Consegna all’ombrellone
+          - strong [ref=f16e66]: "24"
+          - text: ". Simulazione locale: nessun pagamento.L’ordine arriva alla"
+          - link "dashboard demo" [ref=f16e67] [cursor=pointer]:
+            - /url: /#per-il-bar
+          - text: di questo browser.
+    - status [ref=f16e68]
+  - alert [ref=f16e69]

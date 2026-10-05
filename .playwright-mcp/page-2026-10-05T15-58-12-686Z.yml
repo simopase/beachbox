@@ -1,0 +1,275 @@
+- generic [active] [ref=f17e1]:
+  - link "Vai alla dimostrazione" [ref=f17e2] [cursor=pointer]:
+    - /url: "#story"
+  - banner [ref=f17e3]:
+    - link "BeachBox, torna all’inizio" [ref=f17e4] [cursor=pointer]:
+      - /url: "#hero-title"
+      - img "BeachBox" [ref=f17e5]
+    - navigation "Navigazione principale" [ref=f17e6]:
+      - link "Come funziona" [ref=f17e7] [cursor=pointer]:
+        - /url: "#story"
+      - link "Per il chiosco" [ref=f17e8] [cursor=pointer]:
+        - /url: "#per-il-bar"
+      - link "Simulatore" [ref=f17e9] [cursor=pointer]:
+        - /url: "#simulatore"
+      - link "Accedi" [ref=f17e10] [cursor=pointer]:
+        - /url: /login
+      - button "Prova la demo ↗" [ref=f17e11] [cursor=pointer]
+  - main [ref=f17e12]:
+    - region [ref=f17e13]:
+      - generic [ref=f17e14]:
+        - heading [level=1] [ref=f17e15]:
+          - text: Il bar arrivasotto
+          - emphasis [ref=f17e16]: l’ombrellone.
+        - paragraph [ref=f17e17]: Scansiona il QR, scegli quello che ti va e ordina.Al resto pensiamo noi. Tu goditi il mare.
+        - link "Scorri per vedere come funziona" [ref=f17e18] [cursor=pointer]:
+          - /url: "#story"
+          - generic [aria-hidden] [ref=f17e19]: ↓
+          - text: Scorri per vedere come funziona
+    - region "Come funziona BeachBox, in cinque passaggi" [ref=f17e20]:
+      - generic [ref=f17e21]:
+        - generic [ref=f17e23]:
+          - generic [ref=f17e24]: 01 · Scansiona
+          - heading "Un QR per ogni ombrellone." [level=2] [ref=f17e25]
+          - paragraph [ref=f17e26]: Il cliente resta comodamente al proprio posto e inquadra il QR associato alla sua postazione.
+        - generic [ref=f17e27]:
+          - img "Ombrellone blu e crema con una targhetta BeachBox fissata al palo" [ref=f17e28]
+          - link "Apri il menu demo dell’ombrellone 24" [ref=f17e29] [cursor=pointer]:
+            - /url: /menu-demo?ombrellone=24
+            - img "BeachBox" [ref=f17e30]
+            - strong [ref=f17e31]: Ombrellone 24
+            - img "QR per aprire il menu demo dell’ombrellone 24" [ref=f17e32]
+            - generic [ref=f17e34]: Scansionaper ordinare
+        - generic "Anteprima del menu BeachBox" [ref=f17e36]:
+          - generic [ref=f17e37]:
+            - generic [aria-hidden]:
+              - generic: 9:41
+              - generic: ▮▮▮ ▰
+            - generic [ref=f17e39]:
+              - generic [ref=f17e40]:
+                - strong [ref=f17e41]: Ombrellone 24
+                - img "QR inquadrato dalla fotocamera" [ref=f17e42]
+              - generic [ref=f17e44]: Inquadra. Il menu è qui.
+        - navigation "Passaggi della dimostrazione" [ref=f17e47]:
+          - button "Scansiona" [ref=f17e48] [cursor=pointer]
+          - button "Accedi" [ref=f17e49] [cursor=pointer]
+          - button "Scegli" [ref=f17e50] [cursor=pointer]
+          - button "Ordina" [ref=f17e51] [cursor=pointer]
+          - button "Rilassati" [ref=f17e52] [cursor=pointer]
+    - generic [ref=f17e53]:
+      - generic [ref=f17e54]:
+        - generic [ref=f17e55]:
+          - heading [level=2] [ref=f17e56]:
+            - text: Fuori, il mare.Dentro,
+            - emphasis [ref=f17e57]: l’ordine.
+          - generic [ref=f17e58]:
+            - paragraph [ref=f17e59]: Nuovi ordini, preparazioni e consegne in un’unica vista. Anche quando il bar è nel pieno della giornata.
+            - button "Aggiungi un ordine demo" [ref=f17e60] [cursor=pointer]
+        - generic [ref=f17e64]:
+          - generic [ref=f17e65]:
+            - generic [ref=f17e66]:
+              - heading "La tua giornata, in ordine." [level=3] [ref=f17e67]
+              - paragraph [ref=f17e68]: Stabilimento di esempio · Vista operativa
+            - generic [ref=f17e69]: Demo interattiva
+          - generic "Ordini dimostrativi" [ref=f17e70]:
+            - region "Nuovi" [ref=f17e71]:
+              - generic [ref=f17e72]:
+                - generic [ref=f17e73]: Nuovi
+                - generic [ref=f17e74]: "3"
+              - article [ref=f17e75]:
+                - generic [ref=f17e76]:
+                  - generic [ref=f17e77]: Ombrellone 21
+                  - generic [ref=f17e78]: ✓ Pagamento demo
+                - generic [ref=f17e79]: 2 × Acqua
+                - generic [ref=f17e81]:
+                  - generic [ref=f17e82]: "#101 · 12:24"
+                  - strong [ref=f17e83]: 4,00 €
+                - button "Inizia preparazione, ordine 101, ombrellone 21" [ref=f17e84] [cursor=pointer]: Inizia preparazione
+              - article [ref=f17e85]:
+                - generic [ref=f17e86]:
+                  - generic [ref=f17e87]: Ombrellone 24
+                  - generic [ref=f17e88]: ✓ Pagamento demo
+                - generic [ref=f17e89]:
+                  - generic [ref=f17e90]: 1 × Spritz
+                  - generic [ref=f17e91]: 1 × Toast
+                - generic [ref=f17e92]:
+                  - generic [ref=f17e93]: "#104 · Demo"
+                  - strong [ref=f17e94]: 13,50 €
+                - button "Inizia preparazione, ordine 104, ombrellone 24" [ref=f17e95] [cursor=pointer]: Inizia preparazione
+              - article [ref=f17e96]:
+                - generic [ref=f17e97]:
+                  - generic [ref=f17e98]: Ombrellone 24
+                  - generic [ref=f17e99]: ✓ Pagamento demo
+                - generic [ref=f17e100]:
+                  - generic [ref=f17e101]: 2 × Spritz
+                  - generic [ref=f17e102]: 1 × Toast
+                - generic [ref=f17e103]:
+                  - generic [ref=f17e104]: "#105 · Demo"
+                  - strong [ref=f17e105]: 19,50 €
+                - button "Inizia preparazione, ordine 105, ombrellone 24" [ref=f17e106] [cursor=pointer]: Inizia preparazione
+            - region "In preparazione" [ref=f17e107]:
+              - generic [ref=f17e108]:
+                - generic [ref=f17e109]: In preparazione
+                - generic [ref=f17e110]: "1"
+              - article [ref=f17e111]:
+                - generic [ref=f17e112]:
+                  - generic [ref=f17e113]: Ombrellone 12
+                  - generic [ref=f17e114]: ✓ Pagamento demo
+                - generic [ref=f17e115]:
+                  - generic [ref=f17e116]: 2 × Toast
+                  - generic [ref=f17e117]: 1 × Spritz
+                - generic [ref=f17e118]:
+                  - generic [ref=f17e119]: "#102 · 12:20"
+                  - strong [ref=f17e120]: 21,00 €
+                - button "Segna come pronto, ordine 102, ombrellone 12" [ref=f17e121] [cursor=pointer]: Segna come pronto
+            - region "Pronti" [ref=f17e122]:
+              - generic [ref=f17e123]:
+                - generic [ref=f17e124]: Pronti
+                - generic [ref=f17e125]: "1"
+              - article [ref=f17e126]:
+                - generic [ref=f17e127]:
+                  - generic [ref=f17e128]: Ombrellone 8
+                  - generic [ref=f17e129]: ✓ Pagamento demo
+                - generic [ref=f17e130]: 1 × Spritz
+                - generic [ref=f17e132]:
+                  - generic [ref=f17e133]: "#103 · 12:18"
+                  - strong [ref=f17e134]: 6,00 €
+                - button "Segna come consegnato, ordine 103, ombrellone 8" [ref=f17e135] [cursor=pointer]: Segna come consegnato
+          - paragraph [ref=f17e136]: Stabilimento, pagamenti e ordini mostrati sono dimostrativi.
+        - generic [ref=f17e137]:
+          - generic [ref=f17e138]: Prova i pulsanti sulle comande per avanzare fino alla consegna.
+          - button "Ripristina gli ordini demo" [ref=f17e139] [cursor=pointer]
+      - generic [ref=f17e140]:
+        - generic [ref=f17e141]:
+          - paragraph [ref=f17e142]: FACCIAMO DUE CONTI
+          - heading "Piccole pause. Nuove possibilità." [level=2] [ref=f17e143]: Piccole pause.Nuove possibilità.
+          - paragraph [ref=f17e144]: Quanto possono valere qualche ordine in più e un servizio più comodo? Metti alla prova la tua stagione.
+          - generic [ref=f17e145]:
+            - paragraph [ref=f17e146]: Fatturato aggiuntivo ipotetico per stagione
+            - status [ref=f17e147]: 10.080 €
+            - paragraph [ref=f17e148]: "Una simulazione, non una promessa. L’importo è fatturato lordo: non considera costi, imposte o commissioni."
+        - generic [ref=f17e149]:
+          - generic [ref=f17e150]: DISEGNA LA TUA STAGIONE
+          - generic [ref=f17e154]:
+            - generic [ref=f17e155]:
+              - text: Ordini extra al giorno
+              - generic [ref=f17e156]: "8"
+            - slider "Ordini extra al giorno" [ref=f17e157] [cursor=pointer]: "8"
+          - generic [ref=f17e158]:
+            - generic [ref=f17e159]:
+              - text: Scontrino medio
+              - generic [ref=f17e160]: 14 €
+            - slider "Scontrino medio in euro" [ref=f17e161] [cursor=pointer]: "14"
+          - generic [ref=f17e162]:
+            - generic [ref=f17e163]:
+              - text: Giorni di apertura
+              - generic [ref=f17e164]: "90"
+            - slider "Giorni di apertura" [ref=f17e165] [cursor=pointer]: "90"
+          - generic [ref=f17e166]: 8 ordini × 14 € × 90 giorni
+      - generic [ref=f17e167]:
+        - generic [ref=f17e168]:
+          - paragraph [ref=f17e169]: PRONTI PER LA BELLA STAGIONE
+          - heading "Il tuo menu. La tua spiaggia. Si parte da qui." [level=2] [ref=f17e170]: Il tuo menu.La tua spiaggia.Si parte da qui.
+          - paragraph [ref=f17e171]: "BeachBox si inserisce nel tuo servizio. Un QR per ogni postazione e una dashboard per il personale: l’essenziale per iniziare."
+          - link "Scopri i piani" [ref=f17e172] [cursor=pointer]:
+            - /url: "#piani"
+        - generic [ref=f17e175]:
+          - generic [ref=f17e176]:
+            - generic [ref=f17e177]: "1"
+            - generic [ref=f17e178]:
+              - strong [ref=f17e179]: Portiamo online il tuo menu.
+              - paragraph [ref=f17e180]: Prodotti, categorie, immagini, prezzi e disponibilità.
+          - generic [ref=f17e181]:
+            - generic [ref=f17e182]: "2"
+            - generic [ref=f17e183]:
+              - strong [ref=f17e184]: Ogni ombrellone ha il suo QR.
+              - paragraph [ref=f17e185]: Una postazione riconosciuta automaticamente, ordine dopo ordine.
+          - generic [ref=f17e186]:
+            - generic [ref=f17e187]: "3"
+            - generic [ref=f17e188]:
+              - strong [ref=f17e189]: Il tuo staff apre la dashboard.
+              - paragraph [ref=f17e190]: Preparazione e consegna si gestiscono da una sola schermata.
+      - generic [ref=f17e191]:
+        - paragraph [ref=f17e192]: A OGNUNO LA SUA ESTATE
+        - generic [ref=f17e193]:
+          - heading "Una formula per la tua stagione." [level=2] [ref=f17e194]: Una formulaper la tua stagione.
+          - paragraph [ref=f17e195]: Dal menu digitale al servizio completo.Seleziona un piano per vedere cosa include.
+        - generic [ref=f17e196]:
+          - tablist "Piani stagionali" [ref=f17e197]:
+            - tab "Starter Le basi per cominciare. 399 € per stagione" [ref=f17e198] [cursor=pointer]:
+              - generic [ref=f17e199]:
+                - strong [ref=f17e200]: Starter
+                - generic [ref=f17e201]: Le basi per cominciare.
+              - generic [ref=f17e202]:
+                - text: 399 €
+                - generic [ref=f17e203]: per stagione
+            - tab "Pro Il flusso completo di ordinazione. 599 € per stagione" [selected] [ref=f17e204] [cursor=pointer]:
+              - generic [ref=f17e205]:
+                - strong [ref=f17e206]: Pro
+                - generic [ref=f17e207]: Il flusso completo di ordinazione.
+              - generic [ref=f17e208]:
+                - text: 599 €
+                - generic [ref=f17e209]: per stagione
+            - tab "Premium Un avvio accompagnato. 899 € per stagione" [ref=f17e210] [cursor=pointer]:
+              - generic [ref=f17e211]:
+                - strong [ref=f17e212]: Premium
+                - generic [ref=f17e213]: Un avvio accompagnato.
+              - generic [ref=f17e214]:
+                - text: 899 €
+                - generic [ref=f17e215]: per stagione
+          - tabpanel "Pro Il flusso completo di ordinazione. 599 € per stagione" [ref=f17e216]:
+            - heading "Pro, dall’ordine alla consegna." [level=3] [ref=f17e217]
+            - paragraph [ref=f17e218]: Tutto Starter, con il percorso completo per il tuo bar.
+            - list [ref=f17e219]:
+              - listitem [ref=f17e220]: Pagamenti online anticipati
+              - listitem [ref=f17e223]: Ordini in tempo reale
+              - listitem [ref=f17e226]: Stati di preparazione e consegna
+              - listitem [ref=f17e229]: Storico degli ordini
+            - button "Esplora la demo del prodotto" [ref=f17e232] [cursor=pointer]
+        - paragraph [ref=f17e233]: Proposte di prezzo da validare per il lancio. Nessun acquisto attivato su questa pagina.
+      - generic [ref=f17e234]:
+        - generic [ref=f17e235]:
+          - paragraph [ref=f17e236]: ULTIME CURIOSITÀ
+          - heading "Le cose che vuoi sapere." [level=2] [ref=f17e237]
+          - paragraph [ref=f17e238]: Dal telefono del cliente al bancone. Qualche risposta prima di partire.
+        - generic [ref=f17e239]:
+          - group [ref=f17e240]:
+            - generic "Serve scaricare un’app? +" [ref=f17e241] [cursor=pointer]
+          - group [ref=f17e242]:
+            - generic "Come viene riconosciuto l’ombrellone? +" [ref=f17e243] [cursor=pointer]
+          - group [ref=f17e244]:
+            - generic "Quando paga il cliente? +" [ref=f17e245] [cursor=pointer]
+          - group [ref=f17e246]:
+            - generic "Posso aggiornare il menu durante la giornata? +" [ref=f17e247] [cursor=pointer]
+          - group [ref=f17e248]:
+            - generic "La demo invia ordini a un bar reale? +" [ref=f17e249] [cursor=pointer]
+    - generic [ref=f17e251]:
+      - generic [ref=f17e252]: Ordina. Rilassati. Arriviamo noi.
+      - heading "Scansiona. Ordina. Goditi il mare." [level=2] [ref=f17e253]: Scansiona. Ordina.Goditi il mare.
+      - paragraph [ref=f17e254]: Ogni ombrellone diventa un punto d’ordine. Il cliente sceglie, il bar riceve tutto e lo staff sa dove consegnare.
+      - generic [ref=f17e255]:
+        - link "Prova il menu demo ↗" [ref=f17e256] [cursor=pointer]:
+          - /url: /menu-demo?ombrellone=24
+        - button "Prova la dashboard" [ref=f17e257] [cursor=pointer]
+  - contentinfo [ref=f17e258]:
+    - generic [ref=f17e259]:
+      - generic [ref=f17e260]:
+        - link "BeachBox, torna all’inizio" [ref=f17e261] [cursor=pointer]:
+          - /url: "#hero-title"
+          - img "BeachBox" [ref=f17e262]
+        - paragraph [ref=f17e263]: Ordina. Rilassati. Arriviamo noi.
+      - navigation "Navigazione footer" [ref=f17e264]:
+        - link "Per il tuo bar" [ref=f17e265] [cursor=pointer]:
+          - /url: "#per-il-bar"
+        - link "Simulatore" [ref=f17e266] [cursor=pointer]:
+          - /url: "#simulatore"
+        - link "I piani" [ref=f17e267] [cursor=pointer]:
+          - /url: "#piani"
+        - link "FAQ" [ref=f17e268] [cursor=pointer]:
+          - /url: "#faq"
+        - link "Accedi" [ref=f17e269] [cursor=pointer]:
+          - /url: /login
+    - generic [ref=f17e270]:
+      - generic [ref=f17e271]: © 2026 BeachBox
+      - paragraph [ref=f17e272]: Homepage dimostrativa. Ordini, menu e prezzi sono esempi; la fotografia principale è generata con AI. Pagamenti e contatti commerciali non sono attivi.
+  - alert [ref=f17e273]

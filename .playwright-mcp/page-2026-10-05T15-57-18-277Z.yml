@@ -1,0 +1,21 @@
+- generic [active] [ref=f15e1]:
+  - generic [ref=f15e3]:
+    - img "BeachBox" [ref=f15e4]
+    - heading [level=1] [ref=f15e5]:
+      - text: Bentornato
+      - emphasis [ref=f15e6]: al sole.
+    - paragraph [ref=f15e7]: "Accedi all’area dimostrativa del gestore: dashboard, ordini e simulatore di stagione."
+    - generic [ref=f15e8]:
+      - generic [ref=f15e9]:
+        - generic [ref=f15e10]: Email
+        - textbox "Email" [ref=f15e11]:
+          - /placeholder: gestore@baggoesempio.it
+      - generic [ref=f15e12]:
+        - generic [ref=f15e13]: Password
+        - textbox "Password" [ref=f15e14]:
+          - /placeholder: ••••••••
+      - button "Accedi" [ref=f15e15] [cursor=pointer]
+    - paragraph [ref=f15e16]: "Demo locale: qualsiasi email valida e una password di almeno 4 caratteri. Nessun dato viene inviato."
+    - link "← Torna alla homepage" [ref=f15e17] [cursor=pointer]:
+      - /url: /
+  - alert [ref=f15e18]

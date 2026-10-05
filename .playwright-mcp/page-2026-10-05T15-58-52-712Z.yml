@@ -1,0 +1,13 @@
+- generic [active] [ref=f18e1]:
+  - generic [ref=f18e3]:
+    - img "BeachBox" [ref=f18e4]
+    - heading [level=1] [ref=f18e5]:
+      - text: Sei già
+      - emphasis [ref=f18e6]: dentro.
+    - paragraph [ref=f18e7]: Accesso dimostrativo attivo con gestore@baggoesempio.it. La dashboard ti aspetta nella homepage.
+    - link "Vai alla dashboard" [ref=f18e8] [cursor=pointer]:
+      - /url: /#per-il-bar
+    - button "Esci dalla demo" [ref=f18e9] [cursor=pointer]
+    - link "← Torna alla homepage" [ref=f18e10] [cursor=pointer]:
+      - /url: /
+  - alert [ref=f18e11]
