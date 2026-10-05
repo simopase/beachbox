@@ -1,0 +1,161 @@
+- generic [active] [ref=f4e1]:
+  - generic [ref=f4e2]:
+    - generic [ref=f4e3]: Coccombrello — 5 varianti spensierate 🌞
+    - generic [ref=f4e4]: scrolla e confronta · dimmi il numero (6-10) · poi ricostruisco tutta la landing in quel mondo
+  - generic [ref=f4e5]:
+    - generic [ref=f4e6]: "6"
+    - generic [ref=f4e7]: Il Gelato
+    - generic [ref=f4e8]: "il cono diventa interfaccia: palline, spruzzette, insegna da gelateria"
+    - generic [ref=f4e9]: "pro: dolce, italiana, simpaticissima"
+    - generic [ref=f4e10]: "contro: rischia “per bambini” se esagerata"
+  - generic [ref=f4e13]:
+    - generic [ref=f4e14]:
+      - generic [ref=f4e15]: Coccombrello
+      - heading [level=1] [ref=f4e17]:
+        - text: Il bar arriva
+        - emphasis [ref=f4e18]: sotto l'ombrellone!
+      - paragraph [ref=f4e19]: Il cliente scansiona il QR della sua postazione, ordina e paga dal telefono. Tu porti tutto lì, che non si scioglie nemmeno il gelato.
+      - generic [ref=f4e20]:
+        - link "Richiedi una demo" [ref=f4e21] [cursor=pointer]:
+          - /url: "#"
+        - link "Come funziona" [ref=f4e22] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f4e23]:
+        - generic [ref=f4e24]: PAGATO ✓
+        - generic [ref=f4e25]: IN PREPARAZIONE
+        - generic [ref=f4e26]: NUOVO
+    - generic [ref=f4e37]:
+      - generic [ref=f4e38]: fragola · ordini
+      - generic [ref=f4e39]: pistacchio · QR
+      - generic [ref=f4e40]: menta · consegne
+  - generic [ref=f4e41]:
+    - generic [ref=f4e42]: "7"
+    - generic [ref=f4e43]: Il Palmeggi Gonfiabile
+    - generic [ref=f4e44]: "ciambelloni, flamingo, piscina: tutto tondo e rimbalzante"
+    - generic [ref=f4e45]: "pro: puro divertimento estivo"
+    - generic [ref=f4e46]: "contro: molto colore, serve misura nel resto"
+  - generic [ref=f4e53]:
+    - generic [ref=f4e54]:
+      - generic [ref=f4e55]: Coccombrello
+      - heading [level=1] [ref=f4e57]:
+        - text: Il bar arriva
+        - emphasis [ref=f4e58]: sotto l'ombrellone!
+      - paragraph [ref=f4e59]: "Un QR su ogni postazione: il cliente ordina dal telo mare e la comanda arriva al bancone da sola, già pagata. Tu? Rilassati."
+      - generic [ref=f4e60]:
+        - link "Richiedi una demo" [ref=f4e61] [cursor=pointer]:
+          - /url: "#"
+        - link "Come funziona" [ref=f4e62] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f4e63]:
+        - generic [ref=f4e64]: NUOVO ORDINE!
+        - generic [ref=f4e65]: PRONTO ✓
+        - generic [ref=f4e66]: PAGATO
+    - generic [ref=f4e67]: ombrellone 37
+  - generic [ref=f4e77]:
+    - generic [ref=f4e78]: "8"
+    - generic [ref=f4e79]: L'Album di Sticker
+    - generic [ref=f4e80]: "la comanda come figurina: bordi bianchi, ombre nette, stelline"
+    - generic [ref=f4e81]: "pro: energia, memorabile, moderno-allegro"
+    - generic [ref=f4e82]: "contro: molto carica — piace o no"
+  - generic [ref=f4e86]:
+    - generic [ref=f4e87]:
+      - generic [ref=f4e88]: Coccombrello ★
+      - heading [level=1] [ref=f4e89]:
+        - text: Il bar arriva
+        - emphasis [ref=f4e90]: sotto l'ombrellone!
+      - paragraph [ref=f4e91]: "Il cliente scansiona il QR, ordina e paga dal telefono. La comanda arriva al bancone come una figurina: rara, pagata e con l'ombrellone scritto sopra."
+      - generic [ref=f4e92]:
+        - link "Richiedi una demo" [ref=f4e93] [cursor=pointer]:
+          - /url: "#"
+        - link "Come funziona" [ref=f4e94] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f4e95]:
+        - generic [ref=f4e96]: NUOVO!
+        - generic [ref=f4e97]: OMBRELLONE 37
+        - generic [ref=f4e98]: PAGATO ✓
+    - generic [ref=f4e100]:
+      - generic [ref=f4e101]: OMBR.37
+      - generic [ref=f4e103]:
+        - generic [ref=f4e104]:
+          - generic [ref=f4e105]: 2× SPRITZ
+          - generic [ref=f4e106]: 12,00
+        - generic [ref=f4e107]:
+          - generic [ref=f4e108]: 1× PIADINA
+          - generic [ref=f4e109]: 8,50
+        - generic [ref=f4e110]:
+          - generic [ref=f4e111]: TOTALE
+          - generic [ref=f4e112]: 20,50 €
+      - paragraph [ref=f4e117]: SCANSIONA E ORDINAdal tuo ombrellone
+      - generic [ref=f4e119]: "consegna prevista: tra 6 minuti ⏱"
+  - generic [ref=f4e120]:
+    - generic [ref=f4e121]: "9"
+    - generic [ref=f4e122]: Il Sole Naïf
+    - generic [ref=f4e123]: "disegnato al chiosco con i pastelli: ondine, scotch, carta a righe"
+    - generic [ref=f4e124]: "pro: calda, umana, fatta a mano"
+    - generic [ref=f4e125]: "contro: meno “software”, più cartoleria"
+  - generic [ref=f4e132]:
+    - generic [ref=f4e133]:
+      - generic [ref=f4e134]: Coccombrello
+      - heading [level=1] [ref=f4e135]:
+        - text: Il bar arriva
+        - emphasis [ref=f4e136]: sotto l'ombrellone!
+      - paragraph [ref=f4e137]: Il cliente scansiona il QR della postazione, ordina e paga dal telefono. Tu ricevi la comanda e la porti lì, senza fare il giro della spiaggia.
+      - generic [ref=f4e138]:
+        - link "Richiedi una demo" [ref=f4e139] [cursor=pointer]:
+          - /url: "#"
+        - link "Come funziona" [ref=f4e140] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f4e141]:
+        - generic [ref=f4e142]: pagato ✓
+        - generic [ref=f4e143]: in preparazione…
+        - generic [ref=f4e144]: nuovo!
+    - generic [ref=f4e146]:
+      - generic [ref=f4e148]: ~ comanda del giorno ~
+      - generic [ref=f4e149]:
+        - generic [ref=f4e150]: 2× spritz
+        - generic [ref=f4e151]: 12,00
+      - generic [ref=f4e152]:
+        - generic [ref=f4e153]: 1× piadina
+        - generic [ref=f4e154]: 8,50
+      - generic [ref=f4e155]:
+        - generic [ref=f4e156]: 1× acqua
+        - generic [ref=f4e157]: 1,50
+      - generic [ref=f4e158]:
+        - generic [ref=f4e159]: totale
+        - generic [ref=f4e160]: 22,00 €
+      - generic [ref=f4e161]: ↓ consegnare all'ombrellone 37 ↓
+      - generic [ref=f4e162]: omb. 37
+  - generic [ref=f4e166]:
+    - generic [ref=f4e167]: "10"
+    - generic [ref=f4e168]: Frizzante
+    - generic [ref=f4e169]: "bibita ghiacciata: bollicine che salgono, etichetta-comanda sul flacone"
+    - generic [ref=f4e170]: "pro: fresca, pop, giovane"
+    - generic [ref=f4e171]: "contro: soda-energy, meno elegante"
+  - generic [ref=f4e181]:
+    - generic [ref=f4e182]:
+      - generic [ref=f4e183]: Coccombrello frizzante
+      - heading [level=1] [ref=f4e185]:
+        - text: Il bar arriva
+        - emphasis [ref=f4e186]: sotto l'ombrellone!
+      - paragraph [ref=f4e187]: "Scansioni, ordini, pagi: la comanda arriva al bancone con le bollicine, già pagata e già all'indirizzo giusto. Fresco come un tuffo."
+      - generic [ref=f4e188]:
+        - link "Richiedi una demo" [ref=f4e189] [cursor=pointer]:
+          - /url: "#"
+        - link "Come funziona" [ref=f4e190] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f4e191]:
+        - generic [ref=f4e192]: NUOVO ORDINE
+        - generic [ref=f4e193]: OMBRELLONE 37
+        - generic [ref=f4e194]: PAGATO ✓
+    - generic [ref=f4e200]:
+      - generic [ref=f4e201]: "COMANDA #A-1042"
+      - generic [ref=f4e202]: Bagno Paradiso · ombrellone 37
+      - generic [ref=f4e203]:
+        - generic [ref=f4e204]: 2× Spritz
+        - generic [ref=f4e205]: 12,00
+      - generic [ref=f4e206]:
+        - generic [ref=f4e207]: 1× Piadina crudo
+        - generic [ref=f4e208]: 8,50
+      - generic [ref=f4e209]:
+        - generic [ref=f4e210]: TOTALE PAGATO
+        - generic [ref=f4e211]: 20,50 €

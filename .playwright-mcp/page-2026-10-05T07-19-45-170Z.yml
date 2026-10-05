@@ -1,0 +1,229 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - img "Impeccable" [ref=e4]
+  - main [ref=e19]:
+    - generic [ref=e20]:
+      - heading "Scegli il mondo visivo di Coccombrello" [level=1] [ref=e29]
+      - paragraph [ref=e30]: Il roll ha assegnato Il Chiosco. Tienilo, prendi un'alternativa, o rilancia.
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - article [ref=e33]:
+            - generic [ref=e35]:
+              - generic [ref=e36]: THE ROLL
+              - generic [ref=e37]:
+                - paragraph [ref=e38]: il listino laminato e il cartello del bar sulla spiaggia
+                - heading "Il Chiosco" [level=2] [ref=e39]
+                - paragraph [ref=e40]: "La landing è il chiosco stesso: cartello, tab di categorie, listino con puntini di prezzo, e la demo che funziona lì sopra."
+                - generic [ref=e41]:
+                  - generic [ref=e42]:
+                    - generic "#17456B" [ref=e43]
+                    - generic "#F6EFE2" [ref=e44]
+                    - generic "#E4572E" [ref=e45]
+                    - generic "#2E7D4F" [ref=e46]
+                  - generic [ref=e47]: cartello laminato
+                  - generic [ref=e48]: tab di plastica
+                  - generic [ref=e49]: righe listino con puntini
+                  - generic [ref=e50]: strisce da tendalino
+                - button "How Impeccable's worlds improved this direction; activate to see the next improvement" [ref=e51] [cursor=pointer]:
+                  - generic [ref=e52]:
+                    - generic [ref=e53]: Improved by Impeccable's worlds
+                    - generic [ref=e54]: 1/4 ›
+                  - paragraph [ref=e55]:
+                    - generic [ref=e56]: From La Camera Oscura
+                    - text: Stati d'ordine come stampa a senso unico, con riepilogo prima del commit.
+                - paragraph [ref=e58]:
+                  - generic [ref=e59]: First viewport
+                  - text: "Il bancone del chiosco: titolo sul cartello, listino con tab di categorie, la comanda che si stampa mentre tocchi i prodotti, CTA «Richiedi una demo»."
+                - paragraph [ref=e60]:
+                  - generic [ref=e61]: Risk
+                  - text: "È l'artefatto più ovvio del mestiere: se la pagina diventa un poster del chiosco invece di un chiosco che funziona, ha perso."
+                - button "Build this" [ref=e62] [cursor=pointer]
+          - article [ref=e63]:
+            - generic [ref=e65]:
+              - generic [ref=e66]: IMPECCABLE’S PICK
+              - generic [ref=e67]:
+                - paragraph [ref=e68]: il blocchetto delle comande e la ricevuta termica del bar
+                - heading "La Comanda" [level=2] [ref=e69]
+                - paragraph [ref=e70]: "Ogni sezione è uno scontrino appeso al filo della cucina: gli stati dell'ordine come timbri, i numeri in mono, «PAGATO» marcato a tampone."
+                - generic [ref=e71]:
+                  - generic [ref=e72]:
+                    - generic "#23211D" [ref=e73]
+                    - generic "#FBFAF7" [ref=e74]
+                    - generic "#C63B2E" [ref=e75]
+                    - generic "#2F6B4F" [ref=e76]
+                  - generic [ref=e77]: carta termica
+                  - generic [ref=e78]: blocco comande a ricalco
+                  - generic [ref=e79]: timbro datario
+                  - generic [ref=e80]: grafia da scontrino
+                - paragraph [ref=e81]:
+                  - generic [ref=e82]: First viewport
+                  - text: Una grande comanda come hero — ombrellone 37 che si riempisce riga per riga sotto i tuoi occhi — con il CTA timbrato «Richiedi una demo».
+                - paragraph [ref=e83]:
+                  - generic [ref=e84]: Risk
+                  - text: "L'estetica da scontrino è di moda nei circoli tech: familiare ai visitatori design-savvy, ma il bianco-e-nero austero può leggere «startup POS» più che «spiaggia»."
+                - button "Build this" [ref=e85] [cursor=pointer]
+          - article [ref=e86]:
+            - generic [ref=e89]:
+              - paragraph [ref=e90]: sottotitoli emisferici dei varietà TV
+              - heading "Il Telop Varietà" [level=2] [ref=e91]
+              - paragraph [ref=e92]: "Il claim a scala manifesto: didascalie multicolore con contorno che si dimensionano sull'emozione del messaggio."
+              - generic [ref=e93]:
+                - generic [ref=e94]:
+                  - generic "#F7C948" [ref=e95]
+                  - generic "#E4383F" [ref=e96]
+                  - generic "#1B1B1B" [ref=e97]
+                  - generic "#FFFFFF" [ref=e98]
+                - generic [ref=e99]: tipo outline con drop shadow
+                - generic [ref=e100]: colore ad alta croma
+                - generic [ref=e101]: rotazione come punteggiatura
+              - figure "inspired by" [ref=e102]
+              - paragraph [ref=e104]:
+                - generic [ref=e105]: First viewport
+                - text: «IL BAR ARRIVA SOTTO L'OMBRELLONE» in tipo outlined gigante, ogni frase dimensionata al suo peso emotivo.
+              - paragraph [ref=e106]:
+                - generic [ref=e107]: The case
+                - text: "Vince in chiarezza: l'enfasi diventa tipografia pura; perde l'identificazione: i sottotitoli TV non sono il mondo del gestore."
+              - paragraph [ref=e108]:
+                - generic [ref=e109]: Risk
+                - text: Il registro varietà può leggere chiassoso a un acquirente che deve fidarsi.
+              - button "Build this" [ref=e110] [cursor=pointer]
+          - article [ref=e111]:
+            - generic [ref=e114]:
+              - paragraph [ref=e115]: tessuti jacquard e schede perforate
+              - heading "Il Jacquard Forato" [level=2] [ref=e116]
+              - paragraph [ref=e117]: "Il QR è il proniponte delle schede perforate: istruzioni forate che diventano trama d'oro su seta blu notte."
+              - generic [ref=e118]:
+                - generic [ref=e119]:
+                  - generic "#101A33" [ref=e120]
+                  - generic "#C9A227" [ref=e121]
+                  - generic "#F3EBD8" [ref=e122]
+                  - generic "#0B1226" [ref=e123]
+                - generic [ref=e124]: seta blu notte
+                - generic [ref=e125]: trama oro
+                - generic [ref=e126]: crema da scheda perforata
+                - generic [ref=e127]: cifre da registro
+              - figure "inspired by" [ref=e128]
+              - paragraph [ref=e130]:
+                - generic [ref=e131]: First viewport
+                - text: Il QR-codice come motivo tessuto che si compone riga per riga, il menu come scheda di istruzioni forate.
+              - paragraph [ref=e132]:
+                - generic [ref=e133]: The case
+                - text: La storia è vera e affascinante — istruzioni leggibili a macchina da Ottocento a oggi — ma il seta-e-oro sta al lido come l'alta moda allo spogliatoio.
+              - paragraph [ref=e134]:
+                - generic [ref=e135]: Risk
+                - text: Tono lusso per un acquirente pragmatico che ragiona in scontrino medio.
+              - button "Build this" [ref=e136] [cursor=pointer]
+          - article [ref=e137]:
+            - generic [ref=e139]:
+              - generic [ref=e140]: The standing door
+              - generic [ref=e141]:
+                - heading "Lo standard di categoria" [level=2] [ref=e142]
+                - paragraph [ref=e143]: Ciò che questa categoria sforna, eseguito impeccabilmente.
+                - generic [ref=e144]:
+                  - generic [ref=e145]:
+                    - generic "#FFFFFF" [ref=e146]
+                    - generic "#111827" [ref=e147]
+                    - generic "#2563EB" [ref=e148]
+                  - generic [ref=e149]: griglia pulita
+                  - generic [ref=e150]: mockup del telefono
+                  - generic [ref=e151]: fotografia prodotto
+                - paragraph [ref=e152]:
+                  - generic [ref=e153]: First viewport
+                  - text: "Hero con gradiente, tre card di feature, tabella pricing: l'arrangiamento che il visitario si aspetta, al massimo dell'artigianato."
+                - paragraph [ref=e154]:
+                  - generic [ref=e155]: Risk
+                  - text: Indistinguibile dalla concorrenza per progetto.
+                - button "Play it straight" [ref=e156] [cursor=pointer]
+          - article [ref=e157]:
+            - generic [ref=e159]:
+              - generic [ref=e160]: Declined
+              - generic [ref=e161]:
+                - paragraph [ref=e162]: darkroom sotto safelight ambrato
+                - heading "La Camera Oscura" [level=2] [ref=e163]
+                - generic [ref=e164]:
+                  - generic [ref=e165]:
+                    - generic "#2A1B0E" [ref=e166]
+                    - generic "#C77F2E" [ref=e167]
+                    - generic "#E8E2D5" [ref=e168]
+                  - generic [ref=e169]: safelight ambrato
+                  - generic [ref=e170]: grigio stampa bagnata
+                  - generic [ref=e171]: strisce test
+                - figure "inspired by" [ref=e172]
+                - paragraph [ref=e174]:
+                  - generic [ref=e175]: The case
+                  - text: "La sviluppo lento e irreversibile è l'opposto dell'ordine istantaneo: il gestore non ha camera oscura nel suo mondo."
+                - paragraph [ref=e176]:
+                  - generic [ref=e177]: Kept
+                  - text: Progressione a stadi irreversibili con anteprima prima del commit.
+                - button "Adopt anyway" [ref=e178] [cursor=pointer]
+          - article [ref=e179]:
+            - generic [ref=e181]:
+              - generic [ref=e182]: Declined
+              - generic [ref=e183]:
+                - paragraph [ref=e184]: scene live renderizzate a caratteri
+                - heading "La Scena ASCII" [level=2] [ref=e185]
+                - generic [ref=e186]:
+                  - generic [ref=e187]:
+                    - generic "#0A0E0A" [ref=e188]
+                    - generic "#3AA05A" [ref=e189]
+                    - generic "#D8D8D0" [ref=e190]
+                  - generic [ref=e191]: griglia monospace rigorosa
+                  - generic [ref=e192]: densità di glifi come luce
+                - figure "inspired by" [ref=e193]
+                - paragraph [ref=e195]:
+                  - generic [ref=e196]: The case
+                  - text: La griglia è affascinante ma il pubblico è 60enne e hospitality, non nostalgico del terminale.
+                - paragraph [ref=e197]:
+                  - generic [ref=e198]: Kept
+                  - text: Una sola griglia rigorosa per tutti i dati.
+                - button "Adopt anyway" [ref=e199] [cursor=pointer]
+          - article [ref=e200]:
+            - generic [ref=e202]:
+              - generic [ref=e203]: Declined
+              - generic [ref=e204]:
+                - paragraph [ref=e205]: pannelli galleria lowbrow airbrushati
+                - heading "Il Pannello Lowbrow" [level=2] [ref=e206]
+                - generic [ref=e207]:
+                  - generic [ref=e208]:
+                    - generic "#D42B2B" [ref=e209]
+                    - generic "#F2E9DC" [ref=e210]
+                    - generic "#111111" [ref=e211]
+                  - generic [ref=e212]: lacca caramella
+                  - generic [ref=e213]: contorno nero pesante
+                  - generic [ref=e214]: lettering a mano
+                - figure "inspired by" [ref=e215]
+                - paragraph [ref=e217]:
+                  - generic [ref=e218]: The case
+                  - text: Il tableau affollato è il tono sbagliato per una vendita fiducia-prima.
+                - paragraph [ref=e219]:
+                  - generic [ref=e220]: Kept
+                  - text: "Nessuna zona non dipinta: il materiale copre tutto."
+                - button "Adopt anyway" [ref=e221] [cursor=pointer]
+          - article [ref=e222]:
+            - generic [ref=e224]:
+              - generic [ref=e225]: Declined
+              - generic [ref=e226]:
+                - paragraph [ref=e227]: papercut simmetrico Lowicz
+                - heading "Il Papercut a Strati" [level=2] [ref=e228]
+                - generic [ref=e229]:
+                  - generic [ref=e230]:
+                    - generic "#E4B33C" [ref=e231]
+                    - generic "#2F6B4F" [ref=e232]
+                    - generic "#F6EFE2" [ref=e233]
+                  - generic [ref=e234]: carta piatta lucida
+                  - generic [ref=e235]: strati sovrapposti senza ombre
+                - figure "inspired by" [ref=e236]
+                - paragraph [ref=e238]:
+                  - generic [ref=e239]: The case
+                  - text: L'artigianato popolare polacco non abita il lido italiano; la simmetria a medaglione non porta il flusso d'ordine.
+                - paragraph [ref=e240]:
+                  - generic [ref=e241]: Kept
+                  - text: Profondità per strati sovrapposti, mai tono.
+                - button "Adopt anyway" [ref=e242] [cursor=pointer]
+        - button "Previous card" [disabled] [ref=e243]
+        - button "Next card" [ref=e246] [cursor=pointer]
+  - contentinfo [ref=e249]:
+    - 'textbox "Optional steer: what should be different or kept?" [ref=e250]'
+    - button "← Safer hand" [ref=e251] [cursor=pointer]
+    - button "Re-roll" [ref=e253] [cursor=pointer]
+    - button "Bolder hand →" [ref=e262] [cursor=pointer]

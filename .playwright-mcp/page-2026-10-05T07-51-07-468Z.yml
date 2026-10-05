@@ -1,0 +1,193 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e2]:
+    - generic [ref=f3e3]: Coccombrello — 5 varianti grafiche
+    - generic [ref=f3e4]: Scrolla e confronta · dimmi il numero che preferisci (1-5) · poi ricostruisco tutta la landing in quel mondo
+  - generic [ref=f3e5]:
+    - generic [ref=f3e6]: "1"
+    - generic [ref=f3e7]: La Comanda
+    - generic [ref=f3e8]: lo scontrino termico diventa interfaccia
+    - generic [ref=f3e9]: "pro: operativa, credibile, subito “da bar”"
+    - generic [ref=f3e10]: "contro: austera, poco vacanza"
+  - generic [ref=f3e12]:
+    - generic [ref=f3e13]:
+      - generic [ref=f3e14]:
+        - generic [ref=f3e15]: CC
+        - text: COCCOMBRELLO
+      - heading [level=1] [ref=f3e16]:
+        - text: Il bar arriva
+        - emphasis [ref=f3e17]: sotto l'ombrellone.
+      - paragraph [ref=f3e18]: Il cliente scansiona il QR della postazione, ordina e paga dal telefono. La comanda arriva al bancone già pagata e timbrata.
+      - generic [ref=f3e19]:
+        - link "Richiedi una demo" [ref=f3e20] [cursor=pointer]:
+          - /url: "#"
+        - link "Come funziona" [ref=f3e21] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f3e22]:
+        - generic [ref=f3e23]: PAGATO ✓
+        - generic [ref=f3e24]: IN PREPARAZIONE
+        - generic [ref=f3e25]: ANNULLA
+    - generic [ref=f3e27]:
+      - generic [ref=f3e28]:
+        - generic [ref=f3e29]:
+          - text: "* COCCOMBRELLO *"
+          - generic [ref=f3e30]: "BAGNO PARADISO · COMANDA #A-1042"
+        - generic [ref=f3e31]:
+          - generic [ref=f3e32]: 2× SPRITZ
+          - generic [ref=f3e33]: 12,00
+        - generic [ref=f3e34]:
+          - generic [ref=f3e35]: 1× PIADINA CRUDO
+          - generic [ref=f3e36]: 8,50
+        - generic [ref=f3e37]:
+          - generic [ref=f3e38]: 1× ACQUA ½L
+          - generic [ref=f3e39]: 1,50
+        - generic [ref=f3e40]:
+          - generic [ref=f3e41]: TOTALE
+          - generic [ref=f3e42]: 22,00 €
+        - generic [ref=f3e43]:
+          - generic [ref=f3e44]: OMBRELLONE
+          - generic [ref=f3e45]: "37"
+        - paragraph [ref=f3e47]: GRAZIE E BUON SOLE
+      - generic [ref=f3e48]: PAGATO
+  - generic [ref=f3e49]:
+    - generic [ref=f3e50]: "2"
+    - generic [ref=f3e51]: Il Cartellone del Lido
+    - generic [ref=f3e52]: la locandina italiana anni '60 del tuo bagno
+    - generic [ref=f3e53]: "pro: calore, memorabile, very italian"
+    - generic [ref=f3e54]: "contro: retro — se vuoi look tech, no"
+  - generic [ref=f3e58]:
+    - generic [ref=f3e59]:
+      - generic [ref=f3e60]: Coccombrello
+      - heading [level=1] [ref=f3e62]:
+        - text: Il bar arriva
+        - emphasis [ref=f3e63]: sotto l'ombrellone.
+      - paragraph [ref=f3e64]: "Un QR su ogni postazione: il cliente ordina e paga dal telefono, tu consegni all'ombrellone giusto. Senza code, senza app."
+      - generic [ref=f3e65]:
+        - link "Richiedi una demo" [ref=f3e66] [cursor=pointer]:
+          - /url: "#"
+        - link "Come funziona" [ref=f3e67] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f3e68]:
+        - generic [ref=f3e69]: PAGA ORA
+        - generic [ref=f3e70]: SCANSIONA
+        - generic [ref=f3e71]: CONSEGNATO ✓
+    - generic [ref=f3e73]:
+      - generic [ref=f3e74]: BAGNO PARADISO
+      - generic [ref=f3e75]: servizio al ombrellone · stabilimento n.7
+      - generic [ref=f3e84]: SCANSIONA E ORDINA
+  - generic [ref=f3e85]:
+    - generic [ref=f3e86]: "3"
+    - generic [ref=f3e87]: Le Bandiere Marinare
+    - generic [ref=f3e88]: gli stati dell'ordine come segnali del porto
+    - generic [ref=f3e89]: "pro: nitida, moderna, brandizzabile"
+    - generic [ref=f3e90]: "contro: il codice va spiegato"
+  - generic [ref=f3e93]:
+    - generic [ref=f3e94]:
+      - generic [ref=f3e95]: Coccombrello
+      - heading [level=1] [ref=f3e101]:
+        - text: Il bar arriva
+        - emphasis [ref=f3e102]: sotto l'ombrellone.
+      - paragraph [ref=f3e103]: Ogni ombrellone ha il suo QR. Il cliente ordina e paga dal telefono, la comanda entra in cucina da sola, già pagata.
+      - generic [ref=f3e104]:
+        - link "Richiedi una demo" [ref=f3e105] [cursor=pointer]:
+          - /url: "#"
+        - link "Come funziona" [ref=f3e106] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f3e107]:
+        - generic [ref=f3e108]: NUOVO
+        - generic [ref=f3e109]: PRONTO
+        - generic [ref=f3e110]: PAGATO ✓
+    - generic [ref=f3e112]:
+      - generic [ref=f3e113]: PORTO · BAGNO PARADISO
+      - generic [ref=f3e116]:
+        - generic [ref=f3e117]: SEGNALI D'ORDINE
+        - generic [ref=f3e118]: Ogni comanda alza una bandiera diversa sul bancone.
+        - generic [ref=f3e119]:
+          - generic [ref=f3e120]: NUOVO
+          - generic [ref=f3e122]: IN PREPARAZIONE
+          - generic [ref=f3e124]: PRONTO
+        - paragraph [ref=f3e130]: "OMBRELLONE 37bandierina alzata: ordinein consegna alla postazione"
+  - generic [ref=f3e131]:
+    - generic [ref=f3e132]: "4"
+    - generic [ref=f3e133]: La Pianta dello Stabilimento
+    - generic [ref=f3e134]: "la spiaggia vista dall'alto: numeri che si consegnano"
+    - generic [ref=f3e135]: "pro: unica, parla la lingua del gestore"
+    - generic [ref=f3e136]: "contro: tecnica, poco emotiva"
+  - generic [ref=f3e139]:
+    - generic [ref=f3e140]:
+      - generic [ref=f3e141]: Coccombrello · planimetria servizio
+      - heading [level=1] [ref=f3e143]:
+        - text: Ogni ombrellone,
+        - emphasis [ref=f3e144]: un indirizzo.
+      - paragraph [ref=f3e145]: "Il cliente ordina dal suo punto esatto della spiaggia. La consegna segue il percorso: nessun ombrellone sbagliato, mai più."
+      - generic [ref=f3e146]:
+        - link "Richiedi una demo" [ref=f3e147] [cursor=pointer]:
+          - /url: "#"
+        - link "VEDI LA SPIAGGIA" [ref=f3e148] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f3e149]:
+        - generic [ref=f3e150]: CONSEGNA · OMB 37
+        - generic [ref=f3e151]: PRONTO ✓
+        - generic [ref=f3e152]: "percorso: bar → 37"
+    - generic [ref=f3e154]:
+      - generic [ref=f3e155]:
+        - generic [ref=f3e156]: "N"
+        - text: ↑ mare
+      - generic [ref=f3e157]:
+        - generic [ref=f3e158]: PIANTA · BAGNO PARADISO
+        - generic [ref=f3e159]: SCALA 1:200
+      - generic [ref=f3e160]:
+        - generic [ref=f3e161]: "1"
+        - generic [ref=f3e162]: "2"
+        - generic [ref=f3e163]: "3"
+        - generic [ref=f3e164]: "4"
+        - generic [ref=f3e165]: "5"
+        - generic [ref=f3e166]: "6"
+        - generic [ref=f3e167]: "7"
+        - generic [ref=f3e168]: "15"
+        - generic [ref=f3e169]: "16"
+        - generic [ref=f3e170]: "17"
+        - generic [ref=f3e171]: "18"
+        - generic [ref=f3e172]: "19"
+        - generic [ref=f3e173]: "20"
+        - generic [ref=f3e174]: "21"
+        - generic [ref=f3e175]: "29"
+        - generic [ref=f3e176]: "30"
+        - generic [ref=f3e177]: "31"
+        - generic [ref=f3e178]: "32"
+        - generic [ref=f3e179]: "33"
+        - generic [ref=f3e180]: "34"
+        - generic [ref=f3e181]: "35"
+        - generic [ref=f3e182]: BAR
+        - generic [ref=f3e183]: "36"
+        - generic [ref=f3e184]: "37"
+        - generic [ref=f3e185]: "38"
+        - generic [ref=f3e186]: "39"
+      - generic [ref=f3e187]:
+        - generic [ref=f3e188]: percorso consegna
+        - generic [ref=f3e190]: ● ombrellone attivo
+  - generic [ref=f3e191]:
+    - generic [ref=f3e192]: "5"
+    - generic [ref=f3e193]: Il Jacquard
+    - generic [ref=f3e194]: il QR erede delle schede perforate, oro su seta blu notte
+    - generic [ref=f3e195]: "pro: premium, elegante, da scala"
+    - generic [ref=f3e196]: "contro: scura, lontana dal lido"
+  - generic [ref=f3e200]:
+    - generic [ref=f3e201]:
+      - generic [ref=f3e202]: Coccombrello
+      - heading [level=1] [ref=f3e204]:
+        - text: Il bar arriva
+        - emphasis [ref=f3e205]: sotto l'ombrellone.
+      - paragraph [ref=f3e206]: "Un QR su ogni postazione: il cliente ordina e paga dal telefono. Tu ricevi la comanda, dorata e già pagata, direttamente al bancone."
+      - generic [ref=f3e207]:
+        - link "Richiedi una demo" [ref=f3e208] [cursor=pointer]:
+          - /url: "#"
+        - link "Come funziona" [ref=f3e209] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f3e210]:
+        - generic [ref=f3e211]: PAGA ORA
+        - generic [ref=f3e212]: ORDINE N. 1042
+        - generic [ref=f3e213]: CONSEGNATO ✓
+    - generic [ref=f3e215]:
+      - generic [ref=f3e216]: Tessitura ordine
+      - generic [ref=f3e217]: Ombrellone 37
+      - generic [ref=f3e229]: scheda forata → trama → consegna

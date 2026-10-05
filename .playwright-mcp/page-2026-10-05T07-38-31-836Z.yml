@@ -1,0 +1,446 @@
+- generic [active] [ref=f2e1]:
+  - link "Salta al contenuto" [ref=f2e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f2e4]:
+    - generic [ref=f2e5]:
+      - link "Coccombrello, torna su" [ref=f2e6] [cursor=pointer]:
+        - /url: "#top"
+        - text: Coccombrello
+      - button "Apri il menu" [ref=f2e11] [cursor=pointer]
+  - main [ref=f2e14]:
+    - generic [ref=f2e16]:
+      - generic [ref=f2e17]:
+        - heading [level=1] [ref=f2e18]:
+          - text: Il bar arriva
+          - generic [ref=f2e19]: sotto l'ombrellone.
+        - paragraph [ref=f2e22]: "Un QR su ogni postazione: il cliente ordina e paga dal telefono. Tu ricevi la comanda al bancone e consegni all'ombrellone giusto."
+        - generic [ref=f2e23]:
+          - link [ref=f2e24] [cursor=pointer]:
+            - /url: "#demo"
+          - link "Come funziona" [ref=f2e28] [cursor=pointer]:
+            - /url: "#funziona"
+        - paragraph [ref=f2e29]: Nessuna app da scaricare · nessuna registrazione · pagamento anticipato
+      - generic [ref=f2e31]:
+        - figure "Targhetta con QR code dell'ombrellone 37" [ref=f2e32]:
+          - generic [ref=f2e35]: OMBRELLONE 37
+        - generic [ref=f2e36]:
+          - generic [ref=f2e37]:
+            - generic [ref=f2e38]:
+              - text: Bagno Paradiso
+              - generic [ref=f2e39]: Menu del chiosco · demo
+            - generic [ref=f2e40]: ombrellone 37
+          - tablist "Categorie del menu" [ref=f2e41]:
+            - tab "Bevande" [selected] [ref=f2e42] [cursor=pointer]
+            - tab "Cocktail" [ref=f2e43] [cursor=pointer]
+            - tab "Cucina" [ref=f2e44] [cursor=pointer]
+          - generic [ref=f2e45]:
+            - generic [ref=f2e46]:
+              - generic [ref=f2e47]: Acqua ½ L
+              - generic [ref=f2e49]: 1,50
+              - button "Aggiungi Acqua ½ L alla comanda" [ref=f2e50] [cursor=pointer]
+            - generic [ref=f2e53]:
+              - generic [ref=f2e54]: Coca Cola in bottiglia
+              - generic [ref=f2e56]: 3,00
+              - button "Aggiungi Coca Cola in bottiglia alla comanda" [ref=f2e57] [cursor=pointer]
+            - generic [ref=f2e60]:
+              - generic [ref=f2e61]: Birra alla spina
+              - generic [ref=f2e63]: 4,00
+              - button "Aggiungi Birra alla spina alla comanda" [ref=f2e64] [cursor=pointer]
+            - generic [ref=f2e67]:
+              - generic [ref=f2e68]: Tè freddo al limone
+              - generic [ref=f2e70]: 2,50
+              - button "Aggiungi Tè freddo al limone alla comanda" [ref=f2e71] [cursor=pointer]
+            - generic [ref=f2e74]:
+              - generic [ref=f2e75]: Analcolico alla frutta
+              - generic [ref=f2e77]: 3,50
+              - button "Aggiungi Analcolico alla frutta alla comanda" [ref=f2e78] [cursor=pointer]
+          - generic [ref=f2e81]: tocca «+» per ordinare, come farebbe il cliente
+        - generic [ref=f2e83]:
+          - generic [ref=f2e84]:
+            - generic [ref=f2e85]: COMANDA
+            - generic [ref=f2e86]: OMB·37
+          - paragraph [ref=f2e88]: la comanda è vuota…
+          - generic [ref=f2e89]:
+            - generic [ref=f2e90]: TOTALE
+            - generic [ref=f2e91]: € 0,00
+          - button "PAGA ORA" [ref=f2e92] [cursor=pointer]
+          - generic [aria-hidden]: PAGATO
+    - generic "Esempi di ordini in arrivo, dati dimostrativi" [ref=f2e93]:
+      - generic [ref=f2e94]:
+        - generic [ref=f2e95]:
+          - generic [ref=f2e96]: OMB 12
+          - text: 2 Spritz · 1 Coppa
+          - generic [ref=f2e97]: PAGATO ✓
+        - generic [ref=f2e98]:
+          - generic [ref=f2e99]: OMB 54
+          - text: 1 Piadina · 1 Acqua
+          - generic [ref=f2e100]: PAGATO ✓
+        - generic [ref=f2e101]:
+          - generic [ref=f2e102]: OMB 7
+          - text: 3 Birre alla spina
+          - generic [ref=f2e103]: PAGATO ✓
+        - generic [ref=f2e104]:
+          - generic [ref=f2e105]: OMB 31
+          - text: 1 Mojito · 1 Patatine
+          - generic [ref=f2e106]: PAGATO ✓
+        - generic [ref=f2e107]:
+          - generic [ref=f2e108]: OMB 22
+          - text: 2 Panini caprese
+          - generic [ref=f2e109]: PAGATO ✓
+        - generic [ref=f2e110]:
+          - generic [ref=f2e111]: OMB 68
+          - text: 1 Insalatona di mare
+          - generic [ref=f2e112]: PAGATO ✓
+        - generic [ref=f2e113]:
+          - generic [ref=f2e114]: OMB 45
+          - text: 2 Hugo · 1 Gelato
+          - generic [ref=f2e115]: PAGATO ✓
+        - generic [ref=f2e116]:
+          - generic [ref=f2e117]: OMB 9
+          - text: 1 Spritz · 1 Tè freddo
+          - generic [ref=f2e118]: PAGATO ✓
+        - generic [ref=f2e119]:
+          - generic [ref=f2e120]: OMB 77
+          - text: 2 Cuba Libre
+          - generic [ref=f2e121]: PAGATO ✓
+        - generic [aria-hidden] [ref=f2e122]:
+          - generic [ref=f2e123]:
+            - generic [ref=f2e124]: OMB 12
+            - text: 2 Spritz · 1 Coppa
+            - generic [ref=f2e125]: PAGATO ✓
+          - generic [ref=f2e126]:
+            - generic [ref=f2e127]: OMB 54
+            - text: 1 Piadina · 1 Acqua
+            - generic [ref=f2e128]: PAGATO ✓
+          - generic [ref=f2e129]:
+            - generic [ref=f2e130]: OMB 7
+            - text: 3 Birre alla spina
+            - generic [ref=f2e131]: PAGATO ✓
+          - generic [ref=f2e132]:
+            - generic [ref=f2e133]: OMB 31
+            - text: 1 Mojito · 1 Patatine
+            - generic [ref=f2e134]: PAGATO ✓
+          - generic [ref=f2e135]:
+            - generic [ref=f2e136]: OMB 22
+            - text: 2 Panini caprese
+            - generic [ref=f2e137]: PAGATO ✓
+          - generic [ref=f2e138]:
+            - generic [ref=f2e139]: OMB 68
+            - text: 1 Insalatona di mare
+            - generic [ref=f2e140]: PAGATO ✓
+          - generic [ref=f2e141]:
+            - generic [ref=f2e142]: OMB 45
+            - text: 2 Hugo · 1 Gelato
+            - generic [ref=f2e143]: PAGATO ✓
+          - generic [ref=f2e144]:
+            - generic [ref=f2e145]: OMB 9
+            - text: 1 Spritz · 1 Tè freddo
+            - generic [ref=f2e146]: PAGATO ✓
+          - generic [ref=f2e147]:
+            - generic [ref=f2e148]: OMB 77
+            - text: 2 Cuba Libre
+            - generic [ref=f2e149]: PAGATO ✓
+    - generic [ref=f2e151]:
+      - generic [ref=f2e152]:
+        - heading "Oggi, per un caffè, il cliente si alza." [level=2] [ref=f2e153]
+        - paragraph [ref=f2e154]: La gran parte degli stabilimenti lavora ancora così. E ogni passo in più è un ordine che forse non arriverà mai.
+      - generic "Il percorso attuale del cliente" [ref=f2e155]:
+        - generic [ref=f2e156]: Si alzadall'ombrellone
+        - generic [ref=f2e162]: Fa la filaal bancone
+        - generic [ref=f2e170]: Ordinae aspetta
+        - generic [ref=f2e175]: Ripassaa ritirare
+        - generic [ref=f2e181]: Tornaal suo posto
+      - generic "I costi nascosti" [ref=f2e187]:
+        - generic [ref=f2e188]: code ai picchi
+        - generic [ref=f2e190]: consegne all'ombrellone sbagliato
+        - generic [ref=f2e192]: ordini che non arrivano
+        - generic [ref=f2e194]: personale che corre su e giù
+        - generic [ref=f2e196]: zero visibilità sulle vendite
+      - paragraph [ref=f2e198]: Ogni attrito è un ordine perso . Chi è comodo, ordina il bis.
+    - generic [ref=f2e200]:
+      - generic [ref=f2e201]:
+        - heading "Un QR su ogni ombrellone. Il resto lo fa il telefono." [level=2] [ref=f2e202]
+        - paragraph [ref=f2e203]: Nessuna app, nessun account, nessun numero da digitare. Il QR riconosce già lo stabilimento e la postazione.
+      - generic [ref=f2e204]:
+        - article [ref=f2e205]:
+          - generic [ref=f2e206]: "1"
+          - heading "Scansiona" [level=3] [ref=f2e207]
+          - paragraph [ref=f2e208]: Il cliente punta la fotocamera sul QR della propria postazione. Si apre il menu, subito.
+          - generic [ref=f2e209]: Targhetta unicaun QR per ogni ombrellone,non riutilizzabile altrove
+        - article [ref=f2e213]:
+          - generic [ref=f2e214]: "2"
+          - heading "Ordina" [level=3] [ref=f2e215]
+          - paragraph [ref=f2e216]: "Bevande, cocktail, cucina: prezzi e disponibilità sempre aggiornati, come il listino vero."
+          - generic [ref=f2e217]:
+            - generic [ref=f2e218]:
+              - text: Spritz
+              - emphasis [ref=f2e220]: € 6,00
+            - generic [ref=f2e221]:
+              - text: Piadina crudo
+              - emphasis [ref=f2e223]: € 8,50
+            - generic [ref=f2e224]:
+              - text: Coppa gelato
+              - emphasis [ref=f2e226]: finito
+        - article [ref=f2e227]:
+          - generic [ref=f2e228]: "3"
+          - heading "Paga" [level=3] [ref=f2e229]
+          - paragraph [ref=f2e230]: Carta, Apple Pay o Google Pay. Ogni ordine entra in lavorazione solo dopo il pagamento.
+          - generic [ref=f2e231]:
+            - generic [ref=f2e232]: Paga € 16,00
+            - paragraph [ref=f2e233]: Carta · Apple Pay · Google Pay
+        - article [ref=f2e234]:
+          - generic [ref=f2e235]: "4"
+          - heading "Ricevi" [level=3] [ref=f2e236]
+          - paragraph [ref=f2e237]: La comanda arriva al bancone già pagata e indirizzata. Il personale consegna e timbra.
+          - generic [ref=f2e238]:
+            - img "Drink serviti al tavolo sotto l'ombrellone" [ref=f2e239]
+            - generic [ref=f2e240]: CONSEGNATO · OMB 37 ✓
+    - generic [ref=f2e242]:
+      - generic [ref=f2e243]:
+        - generic [ref=f2e244]:
+          - heading "Le comande arrivano da sole. In tempo reale." [level=2] [ref=f2e245]
+          - paragraph [ref=f2e246]: "Ogni ordine pagato compare subito sulla dashboard del bancone, su tablet o computer. Nessun refresh: il personale tocca e cambia stato."
+        - generic [ref=f2e247]:
+          - generic [ref=f2e251]:
+            - generic [ref=f2e252]: Tempo reale, senza refresh
+            - text: L'ordine appare mentre il cliente preme «paga».
+          - generic [ref=f2e257]:
+            - generic [ref=f2e258]: Si riconnette da sola
+            - text: Se la linea salta, la dashboard recupera gli ordini appena torna.
+          - generic [ref=f2e262]:
+            - generic [ref=f2e263]: Pausa quando serve
+            - text: Bancone pieno? Sospendi le ordinazioni e riattivale con un tocco.
+      - 'img "Anteprima della dashboard ordini: colonne Nuovi, In preparazione, Pronti con ordini in arrivo in tempo reale" [ref=f2e264]':
+        - generic [ref=f2e265]:
+          - generic [ref=f2e266]:
+            - generic [ref=f2e267]: Bagno Paradiso · comande
+            - generic [ref=f2e268]: LIVE · DEMO
+          - generic [ref=f2e270]:
+            - generic [ref=f2e271]:
+              - paragraph [ref=f2e272]:
+                - text: NUOVI
+                - generic [ref=f2e273]: "1"
+              - generic [ref=f2e274]:
+                - generic [ref=f2e275]:
+                  - generic [ref=f2e276]: OMB 41
+                  - generic [ref=f2e277]: 9:38
+                - generic [ref=f2e278]: 1× Piadina1× Acqua
+                - generic [ref=f2e279]:
+                  - generic [ref=f2e280]: PAGATO ✓
+                  - generic [ref=f2e281]: € 10,00
+            - generic [ref=f2e282]:
+              - paragraph [ref=f2e283]:
+                - text: IN PREPARAZIONE
+                - generic [ref=f2e284]: "2"
+              - generic [ref=f2e285]:
+                - generic [ref=f2e286]:
+                  - generic [ref=f2e287]: OMB 3
+                  - generic [ref=f2e288]: 9:38
+                - generic [ref=f2e289]: 1× Panino caprese
+                - generic [ref=f2e290]:
+                  - generic [ref=f2e291]: PAGATO ✓
+                  - generic [ref=f2e292]: € 7,50
+              - generic [ref=f2e293]:
+                - generic [ref=f2e294]:
+                  - generic [ref=f2e295]: OMB 26
+                  - generic [ref=f2e296]: 9:38
+                - generic [ref=f2e297]: 2× Spritz1× Cuba
+                - generic [ref=f2e298]:
+                  - generic [ref=f2e299]: PAGATO ✓
+                  - generic [ref=f2e300]: € 19,50
+            - generic [ref=f2e301]:
+              - paragraph [ref=f2e302]:
+                - text: PRONTI
+                - generic [ref=f2e303]: "2"
+              - generic [ref=f2e304]:
+                - generic [ref=f2e305]:
+                  - generic [ref=f2e306]: OMB 8
+                  - generic [ref=f2e307]: 9:38
+                - generic [ref=f2e308]: 1× Spritz1× Gelato
+                - generic [ref=f2e309]:
+                  - generic [ref=f2e310]: PAGATO ✓
+                  - generic [ref=f2e311]: € 9,50
+              - generic [ref=f2e312]:
+                - generic [ref=f2e313]:
+                  - generic [ref=f2e314]: OMB 19
+                  - generic [ref=f2e315]: 9:38
+                - generic [ref=f2e316]: 2× Birra1× Patatine
+                - generic [ref=f2e317]:
+                  - generic [ref=f2e318]: PAGATO ✓
+                  - generic [ref=f2e319]: € 11,00
+    - generic [ref=f2e321]:
+      - generic [ref=f2e322]:
+        - heading "Più ordini, meno caos." [level=2] [ref=f2e323]
+        - paragraph [ref=f2e324]: "Coccombrello non è un menu digitale: è un flusso completo che parte dall'ombrellone e finisce incassato."
+      - generic [ref=f2e325]:
+        - article [ref=f2e326]:
+          - heading "Più ordini, senza alzarsi" [level=3] [ref=f2e330]
+          - paragraph [ref=f2e331]: "Chi non deve fare la fila ordina di più e ordina il bis: il caffè dopo pranzo, il secondo giro di spritz, il gelato del pomeriggio."
+          - generic [aria-hidden] [ref=f2e332]:
+            - emphasis [ref=f2e335]: "10"
+            - emphasis [ref=f2e338]: "11"
+            - emphasis [ref=f2e341]: "12"
+            - emphasis [ref=f2e344]: "13"
+            - emphasis [ref=f2e347]: "14"
+            - emphasis [ref=f2e350]: "15"
+            - emphasis [ref=f2e353]: "16"
+          - paragraph [ref=f2e354]: ordini per ora · esempio dimostrativo
+        - article [ref=f2e355]:
+          - img "Ombrelloni e postazioni visti dall'alto sulla spiaggia" [ref=f2e356]
+          - generic [ref=f2e358]: OMB 37 ✓
+          - generic [ref=f2e359]:
+            - generic [ref=f2e360]: Consegna esatta, sempre
+            - text: "L'ordine nasce già indirizzato alla postazione: niente più «a che ombrellone l'avevo messo?»."
+        - article [ref=f2e361]:
+          - heading "Zero errori" [level=3] [ref=f2e362]
+          - generic [ref=f2e363]: PAGATO ✓
+          - paragraph [ref=f2e364]: Ogni comanda arriva pagata e associata al numero giusto.
+        - article [ref=f2e365]:
+          - heading "Menu sempre vero" [level=3] [ref=f2e368]
+          - paragraph [ref=f2e369]: Ritiri un prodotto? Lo sospendi e sparisce dal menu di tutti.
+          - generic [ref=f2e370]:
+            - generic [ref=f2e371]:
+              - generic [ref=f2e372]: Spritz
+              - emphasis [ref=f2e373]: € 6,00
+            - generic [ref=f2e374]:
+              - generic [ref=f2e375]: Coppa mastro
+              - emphasis [ref=f2e376]: € 5,00
+            - generic [ref=f2e377]:
+              - generic [ref=f2e378]: Gelato fior di latte
+              - emphasis [ref=f2e379]: esaurito
+        - article [ref=f2e380]:
+          - heading "Il bis che prima non c'era" [level=3] [ref=f2e385]
+          - paragraph [ref=f2e386]: Il cliente comodo ordina il dolce, il caffè, il secondo giro. Lo scontrino medio sale da solo.
+        - article [ref=f2e387]:
+          - heading "Storico e vendite" [level=3] [ref=f2e391]
+          - paragraph [ref=f2e392]: Cosa vende di più, a che ora, con che tempo. Numeri veri per decidere listino e turni.
+    - generic [ref=f2e394]:
+      - generic [ref=f2e395]:
+        - heading "Fai i conti col tuo lido." [level=2] [ref=f2e396]
+        - paragraph [ref=f2e397]: Quanto rende un QR su ogni ombrellone? Muovi le levette e guarda il fatturato aggiuntivo di una stagione.
+      - generic [ref=f2e398]:
+        - generic [ref=f2e399]:
+          - generic [ref=f2e400]:
+            - generic [ref=f2e401]:
+              - text: Ombrelloni
+              - status [ref=f2e402]: "100"
+            - slider "Ombrelloni" [ref=f2e403] [cursor=pointer]: "100"
+          - generic [ref=f2e404]:
+            - generic [ref=f2e405]:
+              - text: Ordini in più al giorno
+              - status [ref=f2e406]: "10"
+            - slider "Ordini in più al giorno" [ref=f2e407] [cursor=pointer]: "10"
+          - generic [ref=f2e408]:
+            - generic [ref=f2e409]:
+              - text: Scontrino medio
+              - status [ref=f2e410]: € 15
+            - slider "Scontrino medio" [ref=f2e411] [cursor=pointer]: "15"
+          - generic [ref=f2e412]:
+            - generic [ref=f2e413]:
+              - text: Giorni di stagione
+              - status [ref=f2e414]: "90"
+            - slider "Giorni di stagione" [ref=f2e415] [cursor=pointer]: "90"
+        - generic [ref=f2e416]:
+          - generic [ref=f2e417]: Fatturato aggiuntivo potenziale
+          - generic [ref=f2e418]: € 13.500
+          - generic [ref=f2e419]: ≈ € 150 al giorno
+          - generic [ref=f2e420]: 100 ombrelloni · 10 ordini/giorno ·€ 15 di scontrino · 90 giorni
+          - paragraph [ref=f2e421]: "Stima su ipotesi tue: conta solo gli ordini in più, non quelli che già fai al bancone."
+    - generic [ref=f2e423]:
+      - generic [ref=f2e424]:
+        - heading "Una stagione. Un prezzo." [level=2] [ref=f2e425]
+        - paragraph [ref=f2e426]: "Niente canoni mensili: paghi la stagione estiva e il sistema lavora da giugno a settembre. Targhette QR stampate incluse per ogni ombrellone."
+      - generic [ref=f2e427]:
+        - article [ref=f2e428]:
+          - heading "Starter" [level=3] [ref=f2e429]
+          - paragraph [ref=f2e430]: Per provare col primo lotto di ombrelloni.
+          - paragraph [ref=f2e431]: 399 € a stagione
+          - list [ref=f2e432]:
+            - listitem [ref=f2e433]:
+              - generic [ref=f2e436]: QR per ogni ombrellone + targhette stampate
+            - listitem [ref=f2e437]:
+              - generic [ref=f2e440]: Menu con categorie, prezzi e foto
+            - listitem [ref=f2e441]:
+              - generic [ref=f2e444]: Dashboard ordini per il bancone
+            - listitem [ref=f2e445]:
+              - generic [ref=f2e448]: Gestione prodotti e disponibilità
+          - link "Richiedi una demo" [ref=f2e449] [cursor=pointer]:
+            - /url: "#demo"
+        - article [ref=f2e450]:
+          - generic [ref=f2e451]: CONSIGLIATO PER PARTIRE
+          - heading "Pro" [level=3] [ref=f2e452]
+          - paragraph [ref=f2e453]: "Il pacchetto completo: ordini pagati in tempo reale."
+          - paragraph [ref=f2e454]: 599 € a stagione
+          - list [ref=f2e455]:
+            - listitem [ref=f2e456]:
+              - generic [ref=f2e459]: "Tutto Starter, più:"
+            - listitem [ref=f2e460]:
+              - generic [ref=f2e463]: "Pagamenti online: carta, Apple Pay, Google Pay"
+            - listitem [ref=f2e464]:
+              - generic [ref=f2e467]: Ordini in tempo reale sul tablet
+            - listitem [ref=f2e468]:
+              - generic [ref=f2e471]: Storico ordini e dati di vendita
+          - link "Richiedi una demo" [ref=f2e472] [cursor=pointer]:
+            - /url: "#demo"
+        - article [ref=f2e473]:
+          - heading "Premium" [level=3] [ref=f2e474]
+          - paragraph [ref=f2e475]: Partiamo insieme, con il tuo menu vero.
+          - paragraph [ref=f2e476]: 899 € a stagione
+          - list [ref=f2e477]:
+            - listitem [ref=f2e478]:
+              - generic [ref=f2e481]: "Tutto Pro, più:"
+            - listitem [ref=f2e482]:
+              - generic [ref=f2e485]: Menu e grafiche personalizzati
+            - listitem [ref=f2e486]:
+              - generic [ref=f2e489]: Configurazione iniziale con te
+            - listitem [ref=f2e490]:
+              - generic [ref=f2e493]: Supporto prioritario in stagione
+          - link "Richiedi una demo" [ref=f2e494] [cursor=pointer]:
+            - /url: "#demo"
+      - paragraph [ref=f2e495]: Prezzi pensati per la stagione balneare. Se non torna il conto, facciamo una stima insieme col simulatore qui sopra.
+    - generic [ref=f2e499]:
+      - heading "Le domande da gestore." [level=2] [ref=f2e501]
+      - generic [ref=f2e502]:
+        - group [ref=f2e503]:
+          - generic [ref=f2e504] [cursor=pointer]
+          - paragraph [ref=f2e508]: "No. Si punta la fotocamera sul QR e il menu si apre nel browser: nessun download, nessuna registrazione, nessun account. Funziona con qualunque smartphone."
+        - group [ref=f2e509]:
+          - generic [ref=f2e510] [cursor=pointer]
+        - group [ref=f2e514]:
+          - generic [ref=f2e515] [cursor=pointer]
+        - group [ref=f2e519]:
+          - generic [ref=f2e520] [cursor=pointer]
+        - group [ref=f2e524]:
+          - generic [ref=f2e525] [cursor=pointer]
+        - group [ref=f2e529]:
+          - generic [ref=f2e530] [cursor=pointer]
+    - generic [ref=f2e536]:
+      - generic [ref=f2e537]:
+        - heading "Porta il bar sotto ogni ombrellone." [level=2] [ref=f2e538]
+        - paragraph [ref=f2e539]: Te lo mostriamo in trenta minuti, dal QR alla consegna, con il tuo menu e i tuoi prezzi. Sul tuo tablet.
+        - link [ref=f2e540] [cursor=pointer]:
+          - /url: "#"
+      - figure "ci vediamo al lido →" [ref=f2e544]:
+        - img "Ombrellone e lettini sulla spiaggia con il mare sullo sfondo" [ref=f2e545]
+  - contentinfo [ref=f2e547]:
+    - generic [ref=f2e549]:
+      - generic [ref=f2e550]:
+        - generic [ref=f2e551]:
+          - link "Coccombrello" [ref=f2e552] [cursor=pointer]:
+            - /url: "#top"
+          - paragraph [ref=f2e557]: Il software che porta il bar sotto l'ombrellone, per stabilimenti, chioschi e bar sulla spiaggia.
+        - navigation "Navigazione footer" [ref=f2e558]:
+          - link "Come funziona" [ref=f2e559] [cursor=pointer]:
+            - /url: "#funziona"
+          - link "Dashboard" [ref=f2e560] [cursor=pointer]:
+            - /url: "#dashboard"
+          - link "Simulatore" [ref=f2e561] [cursor=pointer]:
+            - /url: "#simulatore"
+          - link "Prezzi" [ref=f2e562] [cursor=pointer]:
+            - /url: "#prezzi"
+          - link "FAQ" [ref=f2e563] [cursor=pointer]:
+            - /url: "#faq"
+        - paragraph [ref=f2e564]: "Menu, ordini, orari e dati mostrati in questa pagina sono dimostrativi: servono a illustrare il flusso dal QR alla consegna."
+      - generic [ref=f2e565]:
+        - generic [ref=f2e566]: © 2026 Coccombrello
+        - generic [ref=f2e567]: fatto per chi lavora d'estate

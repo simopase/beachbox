@@ -1,0 +1,70 @@
+- generic [active] [ref=f20e1]:
+  - banner [ref=f20e2]:
+    - img "BeachBox" [ref=f20e3]
+    - generic [ref=f20e4]:
+      - heading "Cinque modi di vivere BeachBox." [level=1] [ref=f20e5]
+      - paragraph [ref=f20e6]: Direzioni nuove per la landing commerciale, costruite con il tuo logo e la tua palette. Apri le proposte e confrontale anche su mobile.
+      - link "Apri il confronto in un’unica immagine" [ref=f20e7] [cursor=pointer]:
+        - /url: beachbox-confronto.png
+  - main [ref=f20e8]:
+    - article [ref=f20e9]:
+      - link [ref=f20e10] [cursor=pointer]:
+        - /url: 01-costa.html
+        - img "Preview desktop BeachBox Costa" [ref=f20e11]
+      - generic [ref=f20e12]:
+        - heading "Costa" [level=2] [ref=f20e13]
+        - paragraph [ref=f20e14]: Una spiaggia a tutto schermo. Fotografia, luce e una demo del menu in primo piano.
+        - generic [ref=f20e15]:
+          - link "Esplora la proposta" [ref=f20e16] [cursor=pointer]:
+            - /url: 01-costa.html
+          - link "Vedi mobile" [ref=f20e17] [cursor=pointer]:
+            - /url: 01-costa-mobile.png
+    - article [ref=f20e18]:
+      - link [ref=f20e19] [cursor=pointer]:
+        - /url: 02-sole-pop.html
+        - img "Preview desktop BeachBox Sole Pop" [ref=f20e20]
+      - generic [ref=f20e21]:
+        - heading "Sole Pop" [level=2] [ref=f20e22]
+        - paragraph [ref=f20e23]: Energia arancio, titoli grandi e il simbolo toast come protagonista.
+        - generic [ref=f20e24]:
+          - link "Esplora la proposta" [ref=f20e25] [cursor=pointer]:
+            - /url: 02-sole-pop.html
+          - link "Vedi mobile" [ref=f20e26] [cursor=pointer]:
+            - /url: 02-sole-pop-mobile.png
+    - article [ref=f20e27]:
+      - link [ref=f20e28] [cursor=pointer]:
+        - /url: 03-blu-profondo.html
+        - img "Preview desktop BeachBox Blu Profondo" [ref=f20e29]
+      - generic [ref=f20e30]:
+        - heading "Blu Profondo" [level=2] [ref=f20e31]
+        - paragraph [ref=f20e32]: Blu pieno, contrasto deciso e una rotta che unisce cliente, ordine e bar.
+        - generic [ref=f20e33]:
+          - link "Esplora la proposta" [ref=f20e34] [cursor=pointer]:
+            - /url: 03-blu-profondo.html
+          - link "Vedi mobile" [ref=f20e35] [cursor=pointer]:
+            - /url: 03-blu-profondo-mobile.png
+    - article [ref=f20e36]:
+      - link [ref=f20e37] [cursor=pointer]:
+        - /url: 04-riviera.html
+        - img "Preview desktop BeachBox Riviera" [ref=f20e38]
+      - generic [ref=f20e39]:
+        - heading "Riviera" [level=2] [ref=f20e40]
+        - paragraph [ref=f20e41]: "Un’apertura editoriale: titoli serif, spazio bianco e fotografia verticale."
+        - generic [ref=f20e42]:
+          - link "Esplora la proposta" [ref=f20e43] [cursor=pointer]:
+            - /url: 04-riviera.html
+          - link "Vedi mobile" [ref=f20e44] [cursor=pointer]:
+            - /url: 04-riviera-mobile.png
+    - article [ref=f20e45]:
+      - link [ref=f20e46] [cursor=pointer]:
+        - /url: 05-flusso.html
+        - img "Preview desktop BeachBox Flusso" [ref=f20e47]
+      - generic [ref=f20e48]:
+        - heading "Flusso" [level=2] [ref=f20e49]
+        - paragraph [ref=f20e50]: "La spiegazione diventa grafica: QR, menu e dashboard collegati in un’unica scena."
+        - generic [ref=f20e51]:
+          - link "Esplora la proposta" [ref=f20e52] [cursor=pointer]:
+            - /url: 05-flusso.html
+          - link "Vedi mobile" [ref=f20e53] [cursor=pointer]:
+            - /url: 05-flusso-mobile.png
+  - contentinfo [ref=f20e54]: Nessuna direzione è ancora scelta. Le preview sono prototipi grafici con simulatore interattivo; menu e ordini sono dimostrativi.

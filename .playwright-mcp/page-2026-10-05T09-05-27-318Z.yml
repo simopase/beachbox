@@ -1,0 +1,163 @@
+- generic [active] [ref=e1]:
+  - link "Salta al contenuto" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - main [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link "BeachBox, inizio pagina" [ref=e6] [cursor=pointer]:
+          - /url: "#main"
+          - img "BeachBox" [ref=e7]
+        - navigation "Navigazione principale" [ref=e8]:
+          - link "Come funziona" [ref=e9] [cursor=pointer]:
+            - /url: "#funziona"
+          - link "Quanto vale" [ref=e10] [cursor=pointer]:
+            - /url: "#simulatore"
+          - link "Prezzi" [ref=e11] [cursor=pointer]:
+            - /url: "#prezzi"
+          - link "Scopri la demo" [ref=e12] [cursor=pointer]:
+            - /url: "#demo"
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - heading "Il bar arriva sotto l’ombrellone." [level=1] [ref=e15]
+          - paragraph [ref=e16]: Un QR su ogni ombrellone. I clienti ordinano e pagano dal telefono, il tuo bar riceve la comanda e sa già dove consegnare.
+          - generic [ref=e17]:
+            - link "Scopri la demo" [ref=e18] [cursor=pointer]:
+              - /url: "#demo"
+            - link "Come funziona" [ref=e19] [cursor=pointer]:
+              - /url: "#funziona"
+          - paragraph [ref=e20]: Nessuna app da scaricare. Nessuna registrazione.
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - generic [ref=e24]:
+                - strong [ref=e25]: Bagno Paradiso
+                - text: Menu dimostrativo
+              - generic [ref=e26]: Posto 37
+            - heading "Una pausa, al tuo posto." [level=3] [ref=e27]
+            - generic [ref=e28]:
+              - img "Cocktail estivo" [ref=e29]
+              - generic [ref=e30]:
+                - strong [ref=e31]: Spritz
+                - generic [ref=e32]: Fresco, con una fetta d’arancia
+              - generic [ref=e33]: 6,00 €
+              - generic [aria-hidden] [ref=e34]: +
+            - generic [ref=e35]:
+              - generic [ref=e36]:
+                - strong [ref=e37]: Toast classico
+                - generic [ref=e38]: Prosciutto cotto e formaggio
+              - generic [ref=e39]: 5,50 €
+              - generic [aria-hidden] [ref=e40]: +
+            - generic [ref=e41]:
+              - generic [ref=e42]: 2 prodotti
+              - strong [ref=e43]: 11,50 €
+            - paragraph [ref=e44]: Esempio di menu e carrello.
+          - generic [ref=e45]:
+            - generic [aria-hidden] [ref=e46]: ✓
+            - generic [ref=e47]: Ordine ricevuto dal bar
+            - text: Pagato · Consegna all’ombrellone 37
+    - generic [ref=e49]:
+      - generic [ref=e50]:
+        - heading "Il cliente resta comodo. Tu ricevi l’ordine." [level=2] [ref=e51]
+        - paragraph [ref=e52]: BeachBox collega ogni ordine alla sua postazione. Il pagamento arriva prima della preparazione, la consegna arriva al posto giusto.
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - generic [ref=e55]: "1"
+          - generic [ref=e56]: Scansiona
+          - paragraph [ref=e57]: Il QR riconosce stabilimento e ombrellone.
+        - generic [ref=e58]:
+          - generic [ref=e59]: "2"
+          - generic [ref=e60]: Ordina
+          - paragraph [ref=e61]: Menu, prezzi e disponibilità sul telefono.
+        - generic [ref=e62]:
+          - generic [ref=e63]: "3"
+          - generic [ref=e64]: Paga
+          - paragraph [ref=e65]: Il cliente paga online prima della preparazione.
+        - generic [ref=e66]:
+          - generic [ref=e67]: "4"
+          - generic [ref=e68]: Ricevi
+          - paragraph [ref=e69]: La dashboard indica cosa portare e dove.
+    - generic [ref=e71]:
+      - generic [ref=e72]:
+        - heading "Quanto può valere una pausa in più?" [level=2] [ref=e73]
+        - paragraph [ref=e74]: Prova a cambiare gli ordini extra al giorno, lo scontrino medio e la durata della stagione. Il calcolo mostra un’ipotesi di fatturato aggiuntivo.
+        - generic [ref=e75]:
+          - generic [ref=e76]:
+            - generic [ref=e77]:
+              - generic [ref=e78]:
+                - text: Ordini extra al giorno
+                - generic [ref=e79]: "8"
+              - slider "Ordini extra al giorno" [ref=e80]: "8"
+            - generic [ref=e81]:
+              - generic [ref=e82]:
+                - text: Scontrino medio (€)
+                - generic [ref=e83]: "14"
+              - slider "Scontrino medio in euro" [ref=e84]: "14"
+            - generic [ref=e85]:
+              - generic [ref=e86]:
+                - text: Giorni di apertura
+                - generic [ref=e87]: "90"
+              - slider "Giorni di apertura" [ref=e88]: "90"
+          - text: Ipotesi di fatturato extra per stagione
+          - status [ref=e89]: 10.080 €
+          - text: Ordini extra × scontrino medio × giorni. Fatturato lordo ipotetico, non utile né risultato garantito.
+      - generic [ref=e90]:
+        - heading "Al bar, tutto in ordine." [level=3] [ref=e91]
+        - generic [ref=e92]:
+          - generic [ref=e93]:
+            - text: Nuovi
+            - generic [ref=e94]:
+              - generic [ref=e95]: Posto 37
+              - generic [ref=e96]: 2 prodotti11,50 € · Pagato
+          - generic [ref=e97]:
+            - text: Preparazione
+            - generic [ref=e98]:
+              - generic [ref=e99]: Posto 12
+              - generic [ref=e100]: 3 prodotti18,00 € · Pagato
+          - generic [ref=e101]:
+            - text: Pronti
+            - generic [ref=e102]:
+              - generic [ref=e103]: Posto 08
+              - generic [ref=e104]: 1 prodotto6,00 € · Pagato
+        - paragraph [ref=e105]: Ordini fittizi, solo per la demo.
+    - generic [ref=e107]:
+      - heading "Una stagione. Un servizio più semplice." [level=2] [ref=e108]
+      - paragraph [ref=e109]: Tre formule da validare insieme ai primi stabilimenti.
+      - generic [ref=e110]:
+        - generic [ref=e111]:
+          - heading "Starter" [level=3] [ref=e112]
+          - strong [ref=e113]: 399 €
+          - text: per stagione
+          - paragraph [ref=e114]: QR, menu digitale e gestione prodotti.
+        - generic [ref=e115]:
+          - heading "Pro" [level=3] [ref=e116]
+          - strong [ref=e117]: 599 €
+          - text: per stagione
+          - paragraph [ref=e118]: Pagamenti online, ordini in tempo reale e storico.
+        - generic [ref=e119]:
+          - heading "Premium" [level=3] [ref=e120]
+          - strong [ref=e121]: 899 €
+          - text: per stagione
+          - paragraph [ref=e122]: Personalizzazione, configurazione e supporto prioritario.
+      - paragraph [ref=e123]: Prezzi indicativi del brief di prodotto, da validare.
+    - generic [ref=e125]:
+      - heading "Facile da capire. Facile da usare." [level=2] [ref=e126]
+      - generic [ref=e127]:
+        - group [ref=e128]:
+          - generic "Il cliente deve scaricare un’app?" [ref=e129] [cursor=pointer]
+        - group [ref=e130]:
+          - generic "Come sappiamo dove consegnare?" [ref=e131] [cursor=pointer]
+        - group [ref=e132]:
+          - generic "Gli ordini sono già pagati?" [ref=e133] [cursor=pointer]
+    - generic [ref=e135]:
+      - generic [ref=e136]:
+        - heading "Immaginalo nel tuo stabilimento." [level=2] [ref=e137]
+        - paragraph [ref=e138]: Una demo del percorso dall’ordine alla consegna.
+      - link "Apri la demo esistente" [ref=e139] [cursor=pointer]:
+        - /url: ../../index.html#dashboard
+  - contentinfo [ref=e140]:
+    - generic [ref=e141]:
+      - generic [ref=e142]:
+        - paragraph [ref=e143]: © 2026 BeachBox · Proposta Costa
+        - link "Torna alle cinque proposte" [ref=e144] [cursor=pointer]:
+          - /url: index.html
+      - paragraph [ref=e145]: Anteprima grafica. Menu, ordini e importi sono dimostrativi.Contatti da configurare prima del lancio.

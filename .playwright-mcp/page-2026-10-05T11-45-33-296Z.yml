@@ -1,0 +1,267 @@
+- generic [active] [ref=f10e1]:
+  - link "Salta al contenuto" [ref=f10e2] [cursor=pointer]:
+    - /url: "#main"
+  - main [ref=f10e3]:
+    - region [ref=f10e4]:
+      - generic [ref=f10e5]:
+        - img "Toast e aperitivo serviti accanto a un lettino, sotto l’ombrellone in spiaggia" [ref=f10e6]
+        - img "BeachBox" [ref=f10e8]
+        - heading "IL TUO BAR. OVUNQUE CI SIA UN OMBRELLONE. L’estate, servita meglio." [level=1] [ref=f10e9]:
+          - generic [ref=f10e10]: IL TUO BAR. OVUNQUE CI SIA UN OMBRELLONE.
+          - strong [ref=f10e11]:
+            - text: L’estate,servita
+            - emphasis [ref=f10e12]: meglio.
+        - generic [ref=f10e13]: VISTA MARE / POSTO 37
+        - generic [ref=f10e14]: Il tuo posto preferito. Anche per ordinare.
+        - generic [ref=f10e17]:
+          - generic [ref=f10e18]:
+            - generic [ref=f10e19]: IL BAR, PROPRIO QUI
+            - generic [ref=f10e20]: ↗
+          - generic [ref=f10e22]:
+            - strong [ref=f10e23]: Bagno Paradiso
+            - generic [ref=f10e24]: Il menu del tuo ombrellone
+          - generic [ref=f10e25]:
+            - text: Un po’ di relax
+            - generic [ref=f10e26]: Posto 37
+          - heading "Una pausa fatta bene." [level=3] [ref=f10e27]
+          - generic [ref=f10e28]:
+            - generic [ref=f10e30]:
+              - generic [ref=f10e31]: Toast classico
+              - text: Cotto e formaggio
+            - generic [ref=f10e32]: 5,50 €
+          - generic [ref=f10e33]:
+            - generic [ref=f10e37]:
+              - generic [ref=f10e38]: Spritz
+              - text: Fresco, con arancia
+            - generic [ref=f10e39]: 6,00 €
+          - button "Prova un ordine · 11,50 €" [ref=f10e40] [cursor=pointer]
+          - paragraph [ref=f10e41]: Menu dimostrativo, nessun addebito.
+      - generic [ref=f10e43]:
+        - generic [ref=f10e44]:
+          - generic [ref=f10e45]: Nessuna app
+          - generic [ref=f10e48]: Nessuna registrazione
+          - generic [ref=f10e51]: Il posto è già riconosciuto
+        - generic [ref=f10e54]: Un QR. Tutta la comodità.
+    - generic [ref=f10e57]:
+      - generic [ref=f10e58]: SOLE. MARE. ANCORA UNO SPRITZ. ✳
+      - generic [ref=f10e59]: SOLE. MARE. ANCORA UNO SPRITZ. ✳
+      - generic [ref=f10e60]: SOLE. MARE. ANCORA UNO SPRITZ. ✳
+      - generic [ref=f10e61]: SOLE. MARE. ANCORA UNO SPRITZ. ✳
+    - region [ref=f10e62]:
+      - paragraph [ref=f10e63]: 01 / UNA NUOVA IDEA DI SERVIZIO
+      - generic [ref=f10e64]:
+        - heading "Il lusso più bello? Non doverti alzare." [level=2] [ref=f10e65]:
+          - generic [aria-hidden] [ref=f10e66]:
+            - generic [ref=f10e67]: Il
+            - generic [ref=f10e68]: lusso
+            - generic [ref=f10e69]: più
+            - generic [ref=f10e70]: bello?
+            - generic [ref=f10e71]:
+              - generic [ref=f10e72]: Non
+              - generic [ref=f10e73]: doverti
+              - generic [ref=f10e74]: alzare.
+        - paragraph [ref=f10e75]: Un QR sull’ombrellone. Il tuo menu sul telefono.Tra il desiderio e il primo sorso, ci sei tu.
+      - generic [aria-hidden] [ref=f10e76]: ✳
+    - generic [ref=f10e78]:
+      - generic [ref=f10e79]:
+        - paragraph [ref=f10e80]: PIÙ RELAX PER LORO. PIÙ POSSIBILITÀ PER TE.
+        - heading "Meno passi. Più mare." [level=2] [ref=f10e81]: Meno passi.Più mare.
+      - generic [ref=f10e84]:
+        - generic [ref=f10e85]:
+          - heading "Più occasioni di ordinare" [level=3] [ref=f10e88]
+          - paragraph [ref=f10e89]: Un altro caffè, un pranzo, un aperitivo. A portata di telefono.
+        - generic [ref=f10e90]:
+          - heading "Meno code al bancone" [level=3] [ref=f10e93]
+          - paragraph [ref=f10e94]: L’ordine arriva già pagato, senza passare dalla cassa.
+        - generic [ref=f10e95]:
+          - heading "Il posto giusto, sempre" [level=3] [ref=f10e98]
+          - paragraph [ref=f10e99]: Ogni comanda indica l’ombrellone a cui consegnare.
+    - generic [ref=f10e100]:
+      - generic [ref=f10e101]:
+        - paragraph [ref=f10e102]: 03 / DIETRO UNA BELLA GIORNATA
+        - generic [ref=f10e103]: IL TUO BAR, CONNESSO
+      - generic [ref=f10e105]:
+        - heading [level=2] [ref=f10e106]:
+          - text: Fuori, il mare.Dentro,
+          - emphasis [ref=f10e107]: l’ordine.
+        - generic [ref=f10e108]:
+          - paragraph [ref=f10e109]: Nuovi ordini, preparazioni e consegne in un’unica vista. Anche quando il bar è nel pieno della giornata.
+          - button "Aggiungi un ordine demo" [ref=f10e110] [cursor=pointer]
+      - generic [ref=f10e113]:
+        - complementary "Esempio navigazione dashboard" [ref=f10e114]:
+          - img "BeachBox" [ref=f10e115]
+          - generic [ref=f10e116]: Ordini
+          - generic [ref=f10e117]: Menu
+          - generic [ref=f10e118]: Ombrelloni
+          - generic [ref=f10e119]: Storico
+        - generic [ref=f10e120]:
+          - generic [ref=f10e121]:
+            - generic [ref=f10e122]:
+              - heading "La tua giornata, in ordine." [level=3] [ref=f10e123]
+              - paragraph [ref=f10e124]: Bagno Paradiso · Vista operativa
+            - generic [ref=f10e125]: Demo interattiva
+          - generic "Ordini dimostrativi" [ref=f10e126]:
+            - region "Nuovi" [ref=f10e127]:
+              - generic [ref=f10e128]:
+                - generic [ref=f10e129]: Nuovi
+                - generic [ref=f10e130]: "1"
+              - article [ref=f10e131]:
+                - generic [ref=f10e132]:
+                  - generic [ref=f10e133]: Posto 21
+                  - generic [ref=f10e134]: ✓ Pagato
+                - generic [ref=f10e135]: 2 × Acqua naturale
+                - generic [ref=f10e136]:
+                  - generic [ref=f10e137]: "#101 · 12:24"
+                  - strong [ref=f10e138]: 3,00 €
+                - button "Inizia preparazione, ordine 101, posto 21" [ref=f10e139] [cursor=pointer]: Inizia preparazione
+            - region "In preparazione" [ref=f10e140]:
+              - generic [ref=f10e141]:
+                - generic [ref=f10e142]: In preparazione
+                - generic [ref=f10e143]: "1"
+              - article [ref=f10e144]:
+                - generic [ref=f10e145]:
+                  - generic [ref=f10e146]: Posto 12
+                  - generic [ref=f10e147]: ✓ Pagato
+                - generic [ref=f10e148]: 2 × Toast classico1 × Spritz
+                - generic [ref=f10e149]:
+                  - generic [ref=f10e150]: "#102 · 12:20"
+                  - strong [ref=f10e151]: 17,00 €
+                - button "Segna come pronto, ordine 102, posto 12" [ref=f10e152] [cursor=pointer]: Segna come pronto
+            - region "Pronti" [ref=f10e153]:
+              - generic [ref=f10e154]:
+                - generic [ref=f10e155]: Pronti
+                - generic [ref=f10e156]: "1"
+              - article [ref=f10e157]:
+                - generic [ref=f10e158]:
+                  - generic [ref=f10e159]: Posto 8
+                  - generic [ref=f10e160]: ✓ Pagato
+                - generic [ref=f10e161]: 1 × Spritz
+                - generic [ref=f10e162]:
+                  - generic [ref=f10e163]: "#103 · 12:18"
+                  - strong [ref=f10e164]: 6,00 €
+                - button "Segna come consegnato, ordine 103, posto 8" [ref=f10e165] [cursor=pointer]: Segna come consegnato
+          - paragraph [ref=f10e166]: Tutti gli ordini mostrati sono dimostrativi.
+      - generic [ref=f10e167]:
+        - generic [ref=f10e168]: Prova i pulsanti sulle comande per avanzare fino alla consegna.
+        - button "Ripristina gli ordini demo" [ref=f10e169] [cursor=pointer]
+    - generic [ref=f10e170]:
+      - generic [ref=f10e171]:
+        - paragraph [ref=f10e172]: 04 / FACCIAMO DUE CONTI
+        - heading "Piccole pause. Nuove possibilità." [level=2] [ref=f10e173]: Piccole pause.Nuove possibilità.
+        - paragraph [ref=f10e174]: Quanto possono valere qualche ordine in più e un servizio più comodo? Metti alla prova la tua stagione.
+        - generic [ref=f10e175]:
+          - paragraph [ref=f10e176]: Fatturato aggiuntivo ipotetico per stagione
+          - status [ref=f10e177]: 10.080 €
+          - paragraph [ref=f10e178]: "Una simulazione, non una promessa. L’importo è fatturato lordo: non considera costi, imposte o commissioni."
+      - generic [ref=f10e179]:
+        - generic [ref=f10e180]: DISEGNA LA TUA STAGIONE
+        - generic [ref=f10e184]:
+          - generic [ref=f10e185]:
+            - text: Ordini extra al giorno
+            - generic [ref=f10e186]: "8"
+          - slider "Ordini extra al giorno" [ref=f10e187] [cursor=pointer]: "8"
+        - generic [ref=f10e188]:
+          - generic [ref=f10e189]:
+            - text: Scontrino medio
+            - generic [ref=f10e190]: 14 €
+          - slider "Scontrino medio in euro" [ref=f10e191] [cursor=pointer]: "14"
+        - generic [ref=f10e192]:
+          - generic [ref=f10e193]:
+            - text: Giorni di apertura
+            - generic [ref=f10e194]: "90"
+          - slider "Giorni di apertura" [ref=f10e195] [cursor=pointer]: "90"
+        - generic [ref=f10e196]: 8 ordini × 14 € × 90 giorni
+    - generic [ref=f10e197]:
+      - generic [ref=f10e198]:
+        - paragraph [ref=f10e199]: 05 / PRONTI PER LA BELLA STAGIONE
+        - heading "Il tuo menu. La tua spiaggia. Si parte da qui." [level=2] [ref=f10e200]: Il tuo menu.La tua spiaggia.Si parte da qui.
+        - paragraph [ref=f10e201]: "BeachBox si inserisce nel tuo servizio. Un QR per ogni postazione e una dashboard per il personale: l’essenziale per iniziare."
+        - link "Scopri i piani" [ref=f10e202] [cursor=pointer]:
+          - /url: "#piani"
+      - generic [ref=f10e205]:
+        - generic [ref=f10e206]:
+          - generic [ref=f10e207]: "1"
+          - generic [ref=f10e208]:
+            - strong [ref=f10e209]: Portiamo online il tuo menu.
+            - paragraph [ref=f10e210]: Prodotti, categorie, immagini, prezzi e disponibilità.
+        - generic [ref=f10e211]:
+          - generic [ref=f10e212]: "2"
+          - generic [ref=f10e213]:
+            - strong [ref=f10e214]: Ogni ombrellone ha il suo QR.
+            - paragraph [ref=f10e215]: Una postazione riconosciuta automaticamente, ordine dopo ordine.
+        - generic [ref=f10e216]:
+          - generic [ref=f10e217]: "3"
+          - generic [ref=f10e218]:
+            - strong [ref=f10e219]: Il tuo staff apre la dashboard.
+            - paragraph [ref=f10e220]: Preparazione e consegna si gestiscono da una sola schermata.
+    - generic [ref=f10e221]:
+      - paragraph [ref=f10e222]: 06 / A OGNUNO LA SUA ESTATE
+      - generic [ref=f10e223]:
+        - heading "Una formula per la tua stagione." [level=2] [ref=f10e224]: Una formulaper la tua stagione.
+        - paragraph [ref=f10e225]: Dal menu digitale al servizio completo.Seleziona un piano per vedere cosa include.
+      - generic [ref=f10e226]:
+        - tablist "Piani stagionali" [ref=f10e227]:
+          - tab "Starter Le basi per cominciare. 399 € per stagione" [ref=f10e228] [cursor=pointer]:
+            - generic [ref=f10e229]:
+              - strong [ref=f10e230]: Starter
+              - generic [ref=f10e231]: Le basi per cominciare.
+            - generic [ref=f10e232]:
+              - text: 399 €
+              - generic [ref=f10e233]: per stagione
+          - tab "Pro Il flusso completo di ordinazione. 599 € per stagione" [selected] [ref=f10e234] [cursor=pointer]:
+            - generic [ref=f10e235]:
+              - strong [ref=f10e236]: Pro
+              - generic [ref=f10e237]: Il flusso completo di ordinazione.
+            - generic [ref=f10e238]:
+              - text: 599 €
+              - generic [ref=f10e239]: per stagione
+          - tab "Premium Un avvio accompagnato. 899 € per stagione" [ref=f10e240] [cursor=pointer]:
+            - generic [ref=f10e241]:
+              - strong [ref=f10e242]: Premium
+              - generic [ref=f10e243]: Un avvio accompagnato.
+            - generic [ref=f10e244]:
+              - text: 899 €
+              - generic [ref=f10e245]: per stagione
+        - tabpanel "Pro Il flusso completo di ordinazione. 599 € per stagione" [ref=f10e246]:
+          - heading "Pro, dall’ordine alla consegna." [level=3] [ref=f10e247]
+          - paragraph [ref=f10e248]: Tutto Starter, con il percorso completo per il tuo bar.
+          - list [ref=f10e249]:
+            - listitem [ref=f10e250]: Pagamenti online anticipati
+            - listitem [ref=f10e253]: Ordini in tempo reale
+            - listitem [ref=f10e256]: Stati di preparazione e consegna
+            - listitem [ref=f10e259]: Storico degli ordini
+          - button "Esplora la demo del prodotto" [ref=f10e262] [cursor=pointer]
+      - paragraph [ref=f10e263]: Proposte di prezzo da validare per il lancio. Nessun acquisto attivato su questa pagina.
+    - generic [ref=f10e264]:
+      - generic [ref=f10e265]:
+        - paragraph [ref=f10e266]: ULTIME CURIOSITÀ
+        - heading "Le cose che vuoi sapere." [level=2] [ref=f10e267]: Le cose chevuoi sapere.
+        - paragraph [ref=f10e268]: Dal telefono del cliente al bancone.Qualche risposta prima di partire.
+      - generic [ref=f10e269]:
+        - group [ref=f10e270]:
+          - generic "Serve scaricare un’app? +" [ref=f10e271] [cursor=pointer]
+        - group [ref=f10e272]:
+          - generic "Come viene riconosciuto l’ombrellone? +" [ref=f10e273] [cursor=pointer]
+        - group [ref=f10e274]:
+          - generic "Quando paga il cliente? +" [ref=f10e275] [cursor=pointer]
+        - group [ref=f10e276]:
+          - generic "Posso aggiornare il menu durante la giornata? +" [ref=f10e277] [cursor=pointer]
+        - group [ref=f10e278]:
+          - generic "La demo invia ordini a un bar reale? +" [ref=f10e279] [cursor=pointer]
+  - contentinfo [ref=f10e280]:
+    - generic [ref=f10e281]:
+      - generic [ref=f10e282]:
+        - link "BeachBox, torna all’inizio" [ref=f10e283] [cursor=pointer]:
+          - /url: "#"
+          - img "BeachBox" [ref=f10e284]
+        - paragraph [ref=f10e285]: Ordina. Rilassati. Arriviamo noi.
+      - navigation "Navigazione footer" [ref=f10e286]:
+        - link "Per il tuo bar" [ref=f10e287] [cursor=pointer]:
+          - /url: "#per-il-bar"
+        - link "I piani" [ref=f10e288] [cursor=pointer]:
+          - /url: "#piani"
+        - link "FAQ" [ref=f10e289] [cursor=pointer]:
+          - /url: "#faq"
+    - generic [ref=f10e290]:
+      - generic [ref=f10e291]: © 2026 BeachBox
+      - paragraph [ref=f10e292]: Homepage dimostrativa. Ordini, menu e prezzi sono esempi; la fotografia principale è generata con AI. Pagamenti e contatti commerciali non sono attivi.

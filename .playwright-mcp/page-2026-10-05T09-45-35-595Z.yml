@@ -1,0 +1,78 @@
+- generic [active] [ref=e1]:
+  - link "Vai al contenuto" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - link "BeachBox, tutte le proposte" [ref=e4] [cursor=pointer]:
+      - /url: index.html
+      - img "BeachBox" [ref=e5]
+    - navigation "Navigazione principale" [ref=e6]:
+      - link "Come funziona" [ref=e7] [cursor=pointer]:
+        - /url: "#come-funziona"
+      - link "La tua stagione" [ref=e8] [cursor=pointer]:
+        - /url: "#simulatore"
+      - link "Prova la demo ↗" [ref=e9] [cursor=pointer]:
+        - /url: "#demo"
+  - main [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e13]: Un QR. Tutta la comodità.
+        - generic [ref=e14]: Per bar e stabilimenti balneari
+      - generic [ref=e15]:
+        - heading "RESTI. ORDINI. TI GODI." [level=1] [ref=e16]: RESTI.ORDINI.TI GODI.
+        - generic [ref=e17]:
+          - img "I due toast del marchio BeachBox" [ref=e18]
+          - generic [ref=e19]:
+            - generic [ref=e20]: IL BAR ARRIVA DA TE
+            - generic [ref=e21]: 37 ↗
+      - generic [ref=e22]:
+        - paragraph [ref=e23]: L’appetito arriva anche sotto l’ombrellone. Con BeachBox, ci arriva anche il tuo bar.
+        - generic [ref=e24]:
+          - button "Prova un ordine ↗" [ref=e25] [cursor=pointer]
+          - link "Scopri come" [ref=e26] [cursor=pointer]:
+            - /url: "#come-funziona"
+    - generic [ref=e28]:
+      - paragraph [ref=e29]: La pausa resta una pausa
+      - heading "Il mare davanti. Il bar a portata." [level=2] [ref=e30]: Il mare davanti.Il bar a portata.
+      - generic [ref=e31]:
+        - generic [ref=e32]: "01"
+        - heading "Un QR per ogni posto." [level=3] [ref=e33]
+        - paragraph [ref=e34]: Il cliente apre il menu e il sistema riconosce già l’ombrellone. Nessuna app, nessuna registrazione.
+      - generic [ref=e35]:
+        - generic [ref=e36]: "02"
+        - heading "Un ordine già pagato." [level=3] [ref=e37]
+        - paragraph [ref=e38]: Il cliente sceglie e paga dal telefono. La comanda arriva alla dashboard del bar.
+      - generic [ref=e39]:
+        - generic [ref=e40]: "03"
+        - heading "Una consegna, proprio lì." [level=3] [ref=e41]
+        - paragraph [ref=e42]: Il personale prepara e porta l’ordine alla postazione indicata. Il cliente continua a rilassarsi.
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - paragraph [ref=e45]: La tua stagione, in numeri
+        - heading "La comodità può aprire nuove occasioni." [level=2] [ref=e46]: La comodità puòaprire nuove occasioni.
+        - paragraph [ref=e47]: Prova a immaginare nuove occasioni di ordinare nella tua spiaggia.
+        - status [ref=e48]: 10.080,00 €
+        - paragraph [ref=e49]: "Fatturato lordo aggiuntivo ipotetico. Una simulazione, non una promessa: costi, imposte e commissioni esclusi."
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - text: Ordini extra al giorno
+            - generic [ref=e53]: "8"
+          - slider "Ordini extra al giorno" [ref=e54]: "8"
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - text: Scontrino medio
+            - generic [ref=e57]: 14 €
+          - slider "Scontrino medio in euro" [ref=e58]: "14"
+        - generic [ref=e59]:
+          - generic [ref=e60]:
+            - text: Giorni di apertura
+            - generic [ref=e61]: "90"
+          - slider "Giorni di apertura" [ref=e62]: "90"
+        - paragraph [ref=e63]: 8 ordini × 14 € × 90 giorni
+    - generic [ref=e64]:
+      - paragraph [ref=e65]: Ordina. Rilassati. Arriviamo noi.
+      - button "Prova BeachBox ↗" [ref=e66] [cursor=pointer]
+  - contentinfo [ref=e67]:
+    - paragraph [ref=e68]: "BeachBox · Proposta 06 / Manifesto. Anteprima grafica: menu, ordini e importi sono dimostrativi. Nessun pagamento reale."
+    - link "← Tutte le cinque proposte" [ref=e69] [cursor=pointer]:
+      - /url: index.html
