@@ -140,7 +140,7 @@ export default function HomePage() {
         </div>
         <div className="footer-bottom">
           <span>© 2026 BeachBox</span>
-          <p>Homepage dimostrativa. Ordini, menu e prezzi sono esempi; la fotografia principale è generata con AI. Pagamenti e contatti commerciali non sono attivi.</p>
+          <p>Homepage dimostrativa. Ordini, menu e prezzi sono esempi. Pagamenti e contatti commerciali non sono attivi.</p>
         </div>
       </footer>
     </DemoProvider>
