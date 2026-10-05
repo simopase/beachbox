@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import DemoProvider, { useDemo } from '@/components/DemoProvider';
-import StoryStage, { DEMO_HREF } from '@/components/StoryStage';
+import StoryStage from '@/components/StoryStage';
 import Dashboard from '@/components/Dashboard';
 import Calculator from '@/components/Calculator';
 import Pricing from '@/components/Pricing';
@@ -22,23 +22,6 @@ function Topbar() {
         <button type="button" className="nav-demo" onClick={openDemo}>Prova la demo ↗</button>
       </nav>
     </header>
-  );
-}
-
-function After() {
-  const { openDemo } = useDemo();
-  return (
-    <section className="after">
-      <div>
-        <div className="eyebrow">Ordina. Rilassati. Arriviamo noi.</div>
-        <h2>Scansiona. Ordina.<br />Goditi il mare.</h2>
-        <p>Ogni ombrellone diventa un punto d’ordine. Il cliente sceglie, il bar riceve tutto e lo staff sa dove consegnare.</p>
-        <div className="after-actions">
-          <Link className="button-link" href={DEMO_HREF}>Prova il menu demo ↗</Link>
-          <button className="button-link secondary" type="button" onClick={openDemo}>Prova la dashboard</button>
-        </div>
-      </div>
-    </section>
   );
 }
 
@@ -121,15 +104,13 @@ export default function HomePage() {
             </div>
           </section>
         </div>
-        <After />
       </main>
       <footer className="business-footer">
         <div className="footer-top">
           <div>
             <Link href="#hero-title" aria-label="BeachBox, torna all’inizio">
-              <img className="footer-logo" src="/assets/beachbox-brand/svg/beachbox-logo-horizontal-no-payoff.svg" alt="BeachBox" width="160" height="46" />
+              <img className="footer-logo" src="/assets/beachbox-brand/svg/beachbox-logo-monochrome-white.svg" alt="BeachBox" width="120" height="94" />
             </Link>
-            <p className="payoff">Ordina. Rilassati. Arriviamo noi.</p>
           </div>
           <nav className="footer-links" aria-label="Navigazione footer">
             <Link href="#per-il-bar">Per il tuo bar</Link>
